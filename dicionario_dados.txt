@@ -1,0 +1,14 @@
+Aqui está um dicionário de dados para o conjunto de dados anterior:
+
+1. **ID**: Um identificador único para cada registro.
+2. **Idade**: A idade da pessoa.
+3. **Gênero**: O gênero da pessoa (Masculino ou Feminino).
+4. **Horas de Sono por Noite**: O número de horas de sono que a pessoa dorme por noite.
+5. **Problemas de Sono**: Os possíveis problemas de sono que a pessoa enfrenta (por exemplo, Sonolência diurna, Dificuldade em adormecer, Insônia ocasional, Sonambulismo, Apneia do sono, Insônia crônica, Dificuldade em manter o sono).
+6. **Consumo de Cafeína (mg/dia)**: A quantidade de cafeína que a pessoa consome por dia em miligramas.
+7. **Exercício (Horas/Semana)**: A quantidade média de horas que a pessoa se exercita por semana.
+8. **Nome**: O nome fictício da pessoa.
+9. **Peso**: Peso da pessoa.
+10. **Humor ao Acordar**: O estado de humor da pessoa ao acordar (por exemplo, Feliz, Levemente irritado, Cansado, Animado, Indiferente, Sonolento, De bom humor, Aborrecido, Desanimado, Irritado).
+
+Este dicionário descreve as colunas e os tipos de dados do conjunto de dados, tornando mais fácil entender o que cada coluna representa.
