@@ -1,0 +1,2001 @@
+ID,Idade,Gênero,Hs Sono/Noite,Problemas Sono,Cafeína (mg/dia),Exercício (Hs/Semana),Nome,Peso,Humor ao Acordar
+1,57,Feminino,8,Insônia ocasional,110,2,Leslie,73,Indiferente
+2,27,Masculino,10,Sonambulismo,125,0,Monica,101,Feliz
+3,43,Feminino,5,Apneia do sono,181,5,Christopher,69,Feliz
+4,60,Feminino,9,Insônia ocasional,139,4,Joseph,110,Cansado
+5,45,Feminino,9,Dificuldade em adormecer,64,4,Alexandra,74,De bom humor
+6,32,Masculino,9,Apneia do sono,186,0,Matthew,74,Indiferente
+7,60,Feminino,4,Insônia crônica,60,4,Karen,104,Feliz
+8,23,Feminino,5,Insônia crônica,71,3,Francisco,58,Feliz
+9,64,Feminino,10,Insônia crônica,82,5,Donna,74,Indiferente
+10,22,Masculino,4,Sem Problema,157,4,Steven,115,Indiferente
+11,67,Feminino,10,Sonambulismo,98,2,Gregory,55,Cansado
+12,31,Masculino,4,Insônia crônica,157,3,Susan,97,Aborrecido
+13,68,Feminino,4,Insônia crônica,199,3,Jordan,95,Indiferente
+14,22,Feminino,5,Dificuldade em manter o sono,44,5,Jerry,77,Indiferente
+15,36,Feminino,8,Apneia do sono,80,4,Kathleen,108,De bom humor
+16,32,Masculino,9,Sonolência diurna,183,4,Alice,108,Feliz
+17,19,Feminino,4,Insônia ocasional,195,4,William,55,De bom humor
+18,41,Feminino,9,Dificuldade em adormecer,177,4,Katherine,84,Feliz
+19,33,Feminino,5,Insônia crônica,191,1,Kiara,111,Aborrecido
+20,40,Masculino,10,Insônia ocasional,153,5,Christopher,95,Feliz
+21,55,Masculino,10,Apneia do sono,68,2,Nathan,98,Cansado
+22,48,Masculino,4,Insônia crônica,168,5,Caitlin,98,De bom humor
+23,23,Feminino,8,Sonambulismo,109,0,John,58,Cansado
+24,22,Masculino,4,Dificuldade em adormecer,63,5,Michele,120,Indiferente
+25,24,Masculino,10,Sonolência diurna,29,3,Jeffrey,59,Feliz
+26,63,Masculino,9,Sem Problema,1,2,Marilyn,68,Cansado
+27,49,Feminino,10,Dificuldade em manter o sono,116,4,April,113,Animado
+28,31,Feminino,10,Dificuldade em adormecer,14,4,Catherine,87,Aborrecido
+29,19,Masculino,7,Sonambulismo,165,1,Alyssa,98,Aborrecido
+30,52,Feminino,6,Insônia ocasional,101,3,Amy,74,Animado
+31,21,Feminino,10,Sem Problema,189,1,Angela,63,De bom humor
+32,40,Feminino,6,Sonambulismo,100,4,Jonathan,86,Aborrecido
+33,40,Masculino,6,Apneia do sono,23,4,Alexandra,107,Cansado
+34,32,Masculino,6,Sonambulismo,63,4,Veronica,61,De bom humor
+35,30,Feminino,9,Insônia ocasional,172,4,Daniel,62,Aborrecido
+36,40,Masculino,6,Sem Problema,147,1,Craig,104,Levemente irritado
+37,20,Feminino,6,Insônia ocasional,3,5,Yesenia,85,Feliz
+38,62,Masculino,4,Apneia do sono,160,3,Eric,120,Indiferente
+39,25,Feminino,8,Sonambulismo,0,1,Mary,94,Feliz
+40,69,Feminino,9,Sonolência diurna,56,2,Leslie,75,Sonolenta
+41,31,Feminino,4,Insônia ocasional,4,1,Mark,62,Feliz
+42,39,Masculino,8,Dificuldade em manter o sono,194,2,Maureen,66,Cansado
+43,31,Feminino,8,Sem Problema,190,2,Janice,120,Sonolenta
+44,67,Feminino,5,Dificuldade em manter o sono,109,1,Denise,104,Animado
+45,55,Feminino,4,Dificuldade em manter o sono,72,2,Thomas,65,Levemente irritado
+46,19,Masculino,10,Sonolência diurna,164,3,Daniel,93,Animado
+47,40,Masculino,7,Sonolência diurna,197,2,Karen,78,Aborrecido
+48,19,Feminino,9,Insônia ocasional,74,5,Christopher,62,Cansado
+49,65,Feminino,7,Sem Problema,93,1,Christopher,64,Indiferente
+50,18,Feminino,7,Dificuldade em manter o sono,87,2,Jeffrey,79,Levemente irritado
+51,21,Masculino,7,Dificuldade em adormecer,193,0,Dana,56,Feliz
+52,32,Feminino,10,Insônia crônica,22,0,Mike,118,Feliz
+53,58,Feminino,5,Apneia do sono,113,0,Riley,59,Indiferente
+54,35,Feminino,7,Sonolência diurna,116,3,John,57,Aborrecido
+55,18,Feminino,6,Sem Problema,0,4,Chad,63,Levemente irritado
+56,41,Masculino,7,Sonolência diurna,69,1,Mary,99,Cansado
+57,32,Feminino,4,Dificuldade em manter o sono,166,1,Kayla,107,Animado
+58,38,Masculino,7,Apneia do sono,55,4,John,112,Aborrecido
+59,23,Feminino,5,Dificuldade em adormecer,1,0,Christine,61,Animado
+60,56,Feminino,8,Apneia do sono,122,2,Christopher,104,Cansado
+61,54,Masculino,4,Sonambulismo,194,3,Amber,58,Sonolenta
+62,67,Feminino,7,Insônia crônica,176,1,Laura,113,De bom humor
+63,26,Feminino,5,Sonambulismo,103,0,Lance,61,Indiferente
+64,38,Feminino,10,Insônia crônica,86,3,Dawn,60,De bom humor
+65,59,Masculino,5,Sem Problema,15,3,Kimberly,73,Feliz
+66,60,Feminino,10,Insônia crônica,41,4,Heather,70,Sonolenta
+67,60,Feminino,9,Apneia do sono,49,5,Daniel,57,Sonolenta
+68,37,Masculino,4,Dificuldade em adormecer,75,1,Katherine,117,Feliz
+69,61,Feminino,5,Sonambulismo,4,3,Joseph,79,De bom humor
+70,31,Feminino,4,Dificuldade em adormecer,70,0,Chris,75,Animado
+71,37,Masculino,5,Dificuldade em manter o sono,20,3,Jeffrey,111,Levemente irritado
+72,19,Masculino,9,Sonambulismo,149,4,Mary,106,Aborrecido
+73,22,Feminino,4,Sonambulismo,136,2,Craig,109,Animado
+74,33,Feminino,4,Dificuldade em adormecer,187,4,Larry,86,Sonolenta
+75,53,Feminino,6,Insônia crônica,163,3,Adrian,59,Indiferente
+76,28,Feminino,7,Apneia do sono,35,1,Steven,102,Indiferente
+77,49,Feminino,5,Sonolência diurna,133,0,Dakota,70,Levemente irritado
+78,29,Feminino,4,Dificuldade em manter o sono,6,1,Christopher,84,Sonolenta
+79,41,Feminino,5,Insônia crônica,182,2,Andrea,93,Aborrecido
+80,50,Feminino,10,Insônia crônica,52,1,Eric,87,Animado
+81,45,Masculino,5,Sonolência diurna,26,3,Andrew,102,De bom humor
+82,52,Masculino,7,Apneia do sono,143,2,Grace,101,Animado
+83,18,Feminino,5,Dificuldade em manter o sono,108,0,Tony,90,Sonolenta
+84,61,Feminino,7,Dificuldade em manter o sono,155,4,Christopher,111,Feliz
+85,29,Masculino,9,Sonambulismo,116,3,Benjamin,99,Indiferente
+86,63,Feminino,5,Apneia do sono,83,4,Jason,56,Aborrecido
+87,57,Masculino,6,Sem Problema,23,3,Jamie,96,Indiferente
+88,24,Feminino,4,Dificuldade em adormecer,168,4,Gregory,64,Levemente irritado
+89,47,Feminino,7,Insônia crônica,36,0,Anthony,61,Animado
+90,45,Masculino,4,Apneia do sono,97,0,Jennifer,106,De bom humor
+91,42,Masculino,7,Sem Problema,165,1,Jacob,73,Sonolenta
+92,31,Masculino,10,Dificuldade em adormecer,172,0,Melinda,108,Cansado
+93,20,Masculino,8,Sonambulismo,64,2,Beth,110,Feliz
+94,55,Feminino,7,Sem Problema,161,2,Edward,83,Sonolenta
+95,34,Masculino,8,Dificuldade em manter o sono,193,5,Susan,65,Animado
+96,59,Masculino,10,Insônia ocasional,142,3,Brittney,104,Aborrecido
+97,70,Feminino,4,Sem Problema,51,1,Harold,75,Animado
+98,42,Masculino,4,Insônia crônica,4,2,Linda,107,Sonolenta
+99,19,Masculino,6,Dificuldade em adormecer,85,2,Jennifer,64,Indiferente
+100,32,Masculino,9,Insônia ocasional,50,3,Henry,78,Sonolenta
+101,31,Masculino,9,Sonolência diurna,64,5,Sarah,107,Aborrecido
+102,41,Feminino,8,Dificuldade em manter o sono,176,0,Jeremy,88,Levemente irritado
+103,55,Feminino,8,Sonambulismo,143,0,Diana,103,Aborrecido
+104,30,Masculino,5,Insônia ocasional,146,5,Edward,104,Sonolenta
+105,47,Feminino,10,Sem Problema,49,3,Kimberly,115,Animado
+106,64,Masculino,4,Sem Problema,114,3,Juan,120,Cansado
+107,44,Masculino,6,Sonambulismo,190,1,Christopher,119,Aborrecido
+108,27,Masculino,8,Insônia crônica,60,0,Amy,79,Aborrecido
+109,67,Masculino,7,Sonambulismo,35,2,Peter,64,Sonolenta
+110,21,Masculino,6,Dificuldade em manter o sono,101,3,Samuel,84,Levemente irritado
+111,69,Feminino,9,Insônia ocasional,153,0,Jonathan,76,Sonolenta
+112,31,Feminino,6,Dificuldade em manter o sono,151,0,Christine,74,Feliz
+113,37,Masculino,5,Insônia crônica,140,2,Daniel,103,Levemente irritado
+114,37,Masculino,4,Dificuldade em adormecer,100,1,Jaime,111,Aborrecido
+115,59,Masculino,10,Insônia ocasional,107,2,John,65,Indiferente
+116,69,Feminino,7,Dificuldade em manter o sono,91,1,Kathleen,90,De bom humor
+117,47,Masculino,10,Dificuldade em manter o sono,163,4,Kayla,95,Sonolenta
+118,50,Masculino,9,Sem Problema,114,3,Patrick,111,Levemente irritado
+119,39,Feminino,10,Sonolência diurna,87,1,Samuel,81,Aborrecido
+120,19,Masculino,5,Apneia do sono,122,5,Ann,99,Aborrecido
+121,60,Masculino,5,Sonambulismo,102,1,Debra,85,Indiferente
+122,22,Masculino,5,Sem Problema,170,2,Adam,71,Animado
+123,43,Masculino,9,Insônia crônica,174,2,Joseph,60,Animado
+124,40,Feminino,5,Sem Problema,36,3,Lindsay,74,Cansado
+125,27,Masculino,8,Sonolência diurna,127,5,Susan,119,Sonolenta
+126,58,Masculino,8,Sonolência diurna,17,2,Deanna,87,De bom humor
+127,24,Feminino,6,Apneia do sono,100,5,Rebecca,57,Aborrecido
+128,67,Masculino,8,Insônia ocasional,21,3,Hannah,113,Levemente irritado
+129,53,Masculino,7,Insônia crônica,54,3,Troy,103,De bom humor
+130,31,Feminino,5,Sonolência diurna,82,1,Melinda,115,Cansado
+131,26,Masculino,7,Dificuldade em manter o sono,92,3,Christina,106,Levemente irritado
+132,70,Masculino,7,Sonolência diurna,16,5,Dalton,56,Levemente irritado
+133,49,Masculino,4,Apneia do sono,150,3,Carla,62,De bom humor
+134,24,Masculino,7,Dificuldade em adormecer,20,0,Jean,68,Sonolenta
+135,53,Masculino,8,Insônia ocasional,38,2,Shannon,77,Animado
+136,46,Feminino,5,Dificuldade em manter o sono,58,5,Adam,74,Levemente irritado
+137,36,Masculino,9,Dificuldade em adormecer,177,4,Michael,56,Aborrecido
+138,57,Masculino,6,Dificuldade em adormecer,163,5,Christina,100,Indiferente
+139,47,Masculino,7,Dificuldade em manter o sono,35,3,Scott,111,Animado
+140,66,Feminino,5,Dificuldade em manter o sono,100,0,Eric,64,De bom humor
+141,31,Feminino,4,Insônia ocasional,7,2,Jeremy,100,Indiferente
+142,69,Masculino,4,Dificuldade em adormecer,89,4,Anthony,67,Cansado
+143,22,Masculino,9,Insônia ocasional,47,1,Justin,94,Indiferente
+144,26,Feminino,6,Insônia ocasional,155,3,Patricia,111,Levemente irritado
+145,63,Masculino,9,Apneia do sono,85,2,Dylan,79,Animado
+146,22,Feminino,5,Sonambulismo,137,5,Donna,80,Feliz
+147,65,Masculino,10,Insônia ocasional,94,3,Howard,74,Sonolenta
+148,31,Masculino,9,Insônia ocasional,191,4,Whitney,63,Feliz
+149,36,Masculino,6,Apneia do sono,124,3,Matthew,70,Sonolenta
+150,65,Masculino,5,Apneia do sono,51,1,Herbert,66,Levemente irritado
+151,33,Feminino,4,Apneia do sono,43,2,Victoria,104,Aborrecido
+152,67,Feminino,6,Dificuldade em adormecer,177,1,Pamela,74,De bom humor
+153,63,Feminino,4,Sonambulismo,132,4,Timothy,118,Indiferente
+154,36,Masculino,10,Insônia ocasional,124,0,Donald,86,Aborrecido
+155,31,Feminino,9,Insônia crônica,96,3,Sara,97,Sonolenta
+156,58,Masculino,5,Sonolência diurna,20,1,Patrick,65,Cansado
+157,56,Masculino,4,Insônia ocasional,125,0,Kelly,86,Cansado
+158,53,Feminino,8,Apneia do sono,68,1,Jose,100,Levemente irritado
+159,21,Feminino,4,Sonambulismo,170,2,Madison,66,Sonolenta
+160,24,Feminino,9,Insônia crônica,114,4,Susan,110,Feliz
+161,39,Feminino,8,Apneia do sono,114,0,Michele,58,Feliz
+162,55,Masculino,9,Dificuldade em adormecer,132,2,Michele,56,Feliz
+163,66,Feminino,7,Dificuldade em adormecer,81,2,Valerie,113,Indiferente
+164,66,Feminino,10,Sonambulismo,138,5,John,102,Levemente irritado
+165,34,Masculino,4,Sem Problema,186,0,James,56,Sonolenta
+166,38,Masculino,7,Insônia ocasional,200,1,William,92,Aborrecido
+167,66,Feminino,5,Dificuldade em manter o sono,96,3,Joshua,80,Animado
+168,30,Masculino,9,Insônia ocasional,145,1,Michael,114,Indiferente
+169,30,Masculino,5,Sem Problema,154,5,Teresa,74,Animado
+170,32,Masculino,6,Sonolência diurna,176,4,David,65,Indiferente
+171,32,Masculino,10,Insônia crônica,111,1,Christine,69,Feliz
+172,26,Masculino,7,Dificuldade em adormecer,166,1,Christopher,80,Indiferente
+173,56,Feminino,7,Insônia crônica,128,0,Lori,92,Sonolenta
+174,33,Feminino,8,Dificuldade em manter o sono,33,1,Margaret,66,Levemente irritado
+175,56,Feminino,5,Dificuldade em manter o sono,80,3,Olivia,77,Indiferente
+176,34,Feminino,7,Dificuldade em adormecer,70,3,Shawn,65,Sonolenta
+177,29,Feminino,4,Sem Problema,177,5,Rebecca,60,Cansado
+178,69,Feminino,9,Insônia crônica,54,4,Mark,102,Animado
+179,45,Feminino,5,Apneia do sono,65,5,Wendy,101,Sonolenta
+180,42,Feminino,8,Sonambulismo,34,4,Andrea,102,Aborrecido
+181,30,Feminino,4,Sonolência diurna,112,4,Kristen,64,De bom humor
+182,41,Masculino,8,Sem Problema,10,5,Tristan,63,Levemente irritado
+183,43,Feminino,7,Sonambulismo,143,2,William,113,Indiferente
+184,39,Masculino,8,Sonambulismo,47,1,Amanda,117,Levemente irritado
+185,19,Feminino,9,Apneia do sono,6,2,Lucas,107,Indiferente
+186,25,Masculino,5,Insônia crônica,48,1,Maria,60,Aborrecido
+187,61,Masculino,4,Dificuldade em manter o sono,111,4,Benjamin,120,Sonolenta
+188,60,Masculino,9,Sonolência diurna,52,0,Sandra,107,Animado
+189,36,Feminino,9,Dificuldade em adormecer,60,3,Samuel,63,Animado
+190,26,Feminino,7,Insônia ocasional,150,5,Jeff,102,Cansado
+191,30,Masculino,5,Apneia do sono,122,2,Brandon,77,Feliz
+192,30,Feminino,5,Insônia ocasional,147,5,Lindsay,118,Levemente irritado
+193,39,Feminino,10,Insônia crônica,9,4,Phillip,55,Levemente irritado
+194,19,Masculino,5,Sonambulismo,97,5,Kimberly,71,Animado
+195,32,Masculino,6,Apneia do sono,87,1,Tammy,83,Indiferente
+196,44,Masculino,9,Dificuldade em manter o sono,92,4,Kimberly,55,Sonolenta
+197,27,Masculino,10,Dificuldade em adormecer,167,3,Faith,85,Indiferente
+198,52,Masculino,10,Dificuldade em adormecer,113,3,James,96,Sonolenta
+199,28,Masculino,5,Sonambulismo,152,0,Robert,86,Sonolenta
+200,20,Feminino,4,Sonambulismo,198,1,Jennifer,102,De bom humor
+201,62,Feminino,5,Sonolência diurna,196,1,Bethany,84,Indiferente
+202,22,Masculino,8,Dificuldade em adormecer,123,5,Jonathan,84,Indiferente
+203,70,Masculino,9,Sem Problema,182,4,Kimberly,93,Indiferente
+204,59,Masculino,9,Apneia do sono,146,1,Tony,86,Sonolenta
+205,70,Feminino,4,Apneia do sono,30,4,James,63,Indiferente
+206,63,Masculino,9,Insônia ocasional,127,4,Richard,79,Levemente irritado
+207,23,Feminino,4,Sonolência diurna,42,1,Sara,65,Aborrecido
+208,28,Feminino,7,Insônia ocasional,147,1,Juan,63,Animado
+209,18,Masculino,5,Sem Problema,73,2,Jessica,55,Sonolenta
+210,44,Masculino,4,Insônia ocasional,75,2,Joseph,56,Aborrecido
+211,69,Masculino,10,Insônia crônica,38,3,Sarah,76,Animado
+212,38,Masculino,9,Sonolência diurna,36,0,Laura,88,Feliz
+213,31,Feminino,4,Sonolência diurna,164,2,Julie,81,Cansado
+214,22,Feminino,8,Sem Problema,50,4,Jimmy,84,Indiferente
+215,38,Masculino,8,Dificuldade em manter o sono,148,3,Nicholas,69,Cansado
+216,39,Masculino,6,Dificuldade em manter o sono,122,0,Ashley,90,Sonolenta
+217,43,Masculino,5,Dificuldade em manter o sono,131,2,Aaron,115,Cansado
+218,19,Masculino,5,Insônia crônica,124,5,Timothy,96,Indiferente
+219,41,Masculino,6,Sonolência diurna,95,3,Kyle,97,Sonolenta
+220,29,Masculino,9,Sem Problema,11,2,Cory,102,Indiferente
+221,53,Masculino,5,Sem Problema,119,2,Teresa,71,Indiferente
+222,44,Masculino,6,Insônia crônica,81,2,Donald,105,Animado
+223,50,Masculino,10,Insônia crônica,97,0,Michael,83,Sonolenta
+224,46,Masculino,7,Dificuldade em manter o sono,123,3,Katherine,90,Cansado
+225,43,Feminino,5,Sonolência diurna,171,0,Jamie,86,Animado
+226,26,Feminino,8,Insônia crônica,82,2,Edward,81,Cansado
+227,42,Masculino,7,Insônia ocasional,97,0,Kevin,105,De bom humor
+228,40,Feminino,10,Dificuldade em manter o sono,87,0,Laura,77,Levemente irritado
+229,23,Feminino,9,Insônia crônica,165,3,Laura,97,Animado
+230,32,Feminino,5,Sem Problema,134,5,Jason,60,Sonolenta
+231,42,Masculino,10,Insônia ocasional,42,2,Larry,111,Sonolenta
+232,53,Feminino,8,Dificuldade em manter o sono,70,0,Matthew,100,Aborrecido
+233,28,Masculino,4,Dificuldade em manter o sono,93,2,Jerry,103,Aborrecido
+234,22,Feminino,9,Sem Problema,79,3,Jason,83,Animado
+235,37,Feminino,7,Sem Problema,112,0,Tammy,57,Sonolenta
+236,59,Feminino,6,Sem Problema,102,4,Timothy,113,De bom humor
+237,34,Feminino,8,Apneia do sono,85,5,Jennifer,59,Feliz
+238,37,Masculino,5,Insônia ocasional,67,2,Carolyn,101,Animado
+239,56,Masculino,9,Dificuldade em manter o sono,96,5,William,93,Indiferente
+240,70,Feminino,8,Insônia crônica,31,4,James,93,Sonolenta
+241,69,Feminino,6,Sem Problema,4,2,John,104,De bom humor
+242,53,Masculino,6,Apneia do sono,164,1,Meredith,65,Sonolenta
+243,21,Masculino,8,Sonambulismo,168,2,Lisa,113,De bom humor
+244,63,Feminino,10,Sem Problema,126,2,Alexis,56,Cansado
+245,49,Masculino,7,Dificuldade em manter o sono,161,3,Sierra,120,Sonolenta
+246,24,Feminino,7,Sonambulismo,37,2,John,84,De bom humor
+247,36,Masculino,10,Sonolência diurna,48,2,Tyrone,92,Feliz
+248,63,Masculino,7,Sonambulismo,9,2,Edward,85,Animado
+249,67,Feminino,10,Insônia ocasional,39,2,Christopher,74,Sonolenta
+250,66,Masculino,6,Dificuldade em manter o sono,148,2,Heather,97,Feliz
+251,18,Masculino,9,Insônia crônica,120,0,Natalie,118,Animado
+252,48,Masculino,7,Dificuldade em adormecer,161,2,Danny,111,Sonolenta
+253,26,Masculino,9,Sonolência diurna,99,4,Gregory,103,De bom humor
+254,68,Feminino,4,Apneia do sono,165,5,Emily,92,Feliz
+255,39,Feminino,10,Apneia do sono,170,2,Jay,55,Levemente irritado
+256,56,Feminino,4,Insônia ocasional,77,4,Timothy,108,Aborrecido
+257,53,Feminino,7,Sonambulismo,10,2,Shannon,70,Cansado
+258,35,Masculino,7,Dificuldade em adormecer,192,4,Natalie,102,De bom humor
+259,28,Masculino,9,Insônia crônica,115,1,Joseph,59,Aborrecido
+260,37,Feminino,9,Sonambulismo,163,0,Sarah,62,Feliz
+261,26,Feminino,7,Insônia ocasional,20,1,Kathleen,109,Animado
+262,47,Feminino,5,Insônia crônica,125,0,Nicole,83,Levemente irritado
+263,18,Feminino,10,Insônia ocasional,162,3,Chloe,93,Cansado
+264,38,Feminino,7,Sonolência diurna,114,3,Keith,62,Sonolenta
+265,28,Masculino,4,Insônia ocasional,137,1,Joseph,102,Feliz
+266,27,Feminino,8,Apneia do sono,8,5,Kathryn,82,Levemente irritado
+267,44,Feminino,10,Dificuldade em adormecer,120,4,Richard,60,De bom humor
+268,62,Feminino,6,Insônia ocasional,2,5,Joe,76,Cansado
+269,48,Feminino,5,Insônia crônica,26,0,Melissa,82,De bom humor
+270,57,Feminino,5,Dificuldade em manter o sono,146,0,Lisa,95,Levemente irritado
+271,33,Masculino,7,Sem Problema,42,5,Gregory,96,Indiferente
+272,31,Feminino,7,Insônia ocasional,84,3,Christian,88,De bom humor
+273,53,Masculino,5,Sonolência diurna,59,2,Aaron,114,Levemente irritado
+274,43,Feminino,8,Insônia ocasional,84,5,Elizabeth,76,Levemente irritado
+275,38,Masculino,6,Sonolência diurna,72,0,Kimberly,59,Animado
+276,34,Feminino,5,Insônia ocasional,105,5,Courtney,69,Sonolenta
+277,66,Feminino,5,Sonolência diurna,155,5,Shannon,115,Animado
+278,47,Feminino,7,Dificuldade em manter o sono,169,3,Emily,82,Levemente irritado
+279,27,Masculino,4,Apneia do sono,151,2,Jordan,106,Animado
+280,67,Masculino,6,Insônia ocasional,14,3,Kathleen,56,Aborrecido
+281,66,Feminino,6,Dificuldade em adormecer,124,4,Susan,87,Indiferente
+282,19,Masculino,7,Sonolência diurna,120,0,Ashley,85,Feliz
+283,21,Masculino,4,Sonolência diurna,116,5,Sabrina,100,Cansado
+284,37,Masculino,9,Apneia do sono,144,0,Ronnie,100,Levemente irritado
+285,24,Feminino,5,Dificuldade em adormecer,198,2,Lauren,88,Levemente irritado
+286,35,Masculino,8,Sonolência diurna,34,5,Robert,74,Feliz
+287,42,Feminino,7,Apneia do sono,114,1,Brian,83,Levemente irritado
+288,58,Masculino,6,Apneia do sono,75,0,Tammy,68,Sonolenta
+289,60,Feminino,7,Insônia ocasional,163,2,Timothy,119,Animado
+290,49,Feminino,7,Sonambulismo,54,5,Shannon,79,De bom humor
+291,25,Feminino,5,Dificuldade em adormecer,119,3,Deborah,103,Indiferente
+292,63,Masculino,9,Sonolência diurna,119,0,Brittney,80,Indiferente
+293,50,Feminino,10,Insônia crônica,56,1,Marcus,55,Levemente irritado
+294,42,Feminino,6,Sonolência diurna,94,2,Michelle,64,Animado
+295,43,Feminino,9,Apneia do sono,64,2,Sandra,58,Feliz
+296,21,Feminino,10,Insônia ocasional,137,0,Rebekah,81,Aborrecido
+297,30,Feminino,6,Dificuldade em manter o sono,8,5,Jack,62,Sonolenta
+298,20,Masculino,6,Insônia crônica,153,1,Wayne,69,Cansado
+299,69,Masculino,9,Dificuldade em adormecer,27,4,Brianna,118,Cansado
+300,69,Feminino,8,Insônia crônica,45,4,Jamie,118,Aborrecido
+301,68,Masculino,8,Apneia do sono,77,0,Abigail,107,Indiferente
+302,63,Feminino,10,Sonolência diurna,98,5,Terri,83,Aborrecido
+303,50,Feminino,7,Insônia ocasional,151,1,Warren,98,Feliz
+304,47,Feminino,10,Insônia ocasional,189,0,Matthew,70,Cansado
+305,28,Masculino,7,Sonambulismo,166,5,Stephen,95,Levemente irritado
+306,21,Feminino,9,Sem Problema,155,2,Stephanie,60,Cansado
+307,60,Feminino,9,Insônia ocasional,101,3,Michael,70,Aborrecido
+308,51,Masculino,7,Dificuldade em adormecer,182,0,Kaitlin,81,Sonolenta
+309,49,Masculino,9,Insônia crônica,132,4,Megan,97,Indiferente
+310,39,Masculino,7,Dificuldade em adormecer,12,0,Alex,100,Levemente irritado
+311,64,Masculino,4,Sonambulismo,84,2,Gene,113,Cansado
+312,49,Feminino,5,Apneia do sono,68,1,Thomas,110,Cansado
+313,31,Feminino,8,Sonambulismo,72,4,Sharon,86,Animado
+314,34,Masculino,6,Apneia do sono,140,4,Helen,111,Cansado
+315,61,Feminino,5,Insônia crônica,2,5,Nancy,112,Aborrecido
+316,52,Masculino,7,Dificuldade em manter o sono,197,0,Anthony,92,Levemente irritado
+317,62,Feminino,7,Sonolência diurna,128,1,Austin,95,Indiferente
+318,50,Feminino,8,Dificuldade em adormecer,190,5,Lauren,93,Cansado
+319,34,Feminino,7,Sonolência diurna,26,4,Miguel,68,Animado
+320,45,Feminino,7,Insônia ocasional,148,0,Janet,114,Levemente irritado
+321,18,Feminino,4,Sonambulismo,154,4,Pamela,84,Cansado
+322,44,Masculino,9,Sem Problema,191,4,Alexander,71,De bom humor
+323,51,Feminino,8,Sonambulismo,67,0,Janice,99,Cansado
+324,50,Masculino,7,Insônia ocasional,181,0,Nicole,55,Aborrecido
+325,43,Feminino,10,Insônia ocasional,75,2,Mary,106,Feliz
+326,32,Feminino,4,Dificuldade em manter o sono,165,3,Taylor,110,Aborrecido
+327,55,Masculino,5,Sem Problema,135,3,Brett,116,Animado
+328,20,Feminino,9,Dificuldade em manter o sono,24,2,Jody,59,Indiferente
+329,19,Feminino,6,Dificuldade em manter o sono,188,5,Raymond,73,Aborrecido
+330,37,Masculino,9,Insônia ocasional,172,3,Curtis,59,Indiferente
+331,65,Feminino,7,Sonolência diurna,169,1,Devin,89,Cansado
+332,31,Feminino,10,Dificuldade em adormecer,67,1,Makayla,94,Sonolenta
+333,49,Masculino,5,Dificuldade em manter o sono,92,3,Lisa,55,Sonolenta
+334,42,Feminino,6,Insônia crônica,0,0,William,67,Sonolenta
+335,28,Masculino,9,Apneia do sono,25,2,Erin,107,Indiferente
+336,49,Feminino,9,Insônia ocasional,135,1,Jessica,96,Feliz
+337,22,Masculino,7,Sonolência diurna,134,4,Kristina,62,Indiferente
+338,59,Feminino,8,Apneia do sono,169,4,Michael,69,Sonolenta
+339,37,Feminino,7,Insônia crônica,161,2,Elijah,55,Cansado
+340,32,Masculino,5,Apneia do sono,6,2,Tamara,105,Animado
+341,29,Masculino,6,Sonolência diurna,107,0,Phillip,76,Feliz
+342,40,Feminino,8,Dificuldade em manter o sono,184,0,Katie,117,De bom humor
+343,24,Feminino,4,Sem Problema,158,3,Troy,91,Aborrecido
+344,69,Masculino,4,Sonolência diurna,179,2,Kenneth,112,Feliz
+345,22,Masculino,10,Sonolência diurna,83,3,Tracy,81,Animado
+346,38,Feminino,10,Sonambulismo,161,1,Jane,95,Sonolenta
+347,66,Masculino,5,Dificuldade em manter o sono,65,0,Tommy,110,Sonolenta
+348,34,Masculino,10,Insônia ocasional,154,2,Travis,57,Animado
+349,44,Feminino,6,Sonolência diurna,159,5,Christopher,89,Sonolenta
+350,33,Masculino,5,Sonolência diurna,36,4,Cynthia,83,Feliz
+351,21,Feminino,10,Insônia crônica,59,5,Karen,93,Feliz
+352,66,Masculino,9,Dificuldade em manter o sono,177,4,Amanda,80,Indiferente
+353,69,Masculino,5,Dificuldade em manter o sono,134,3,Alison,97,Cansado
+354,64,Feminino,4,Insônia ocasional,18,5,Joyce,111,Sonolenta
+355,43,Feminino,10,Insônia ocasional,23,0,Jessica,104,Feliz
+356,36,Masculino,7,Sem Problema,198,1,Jennifer,84,De bom humor
+357,39,Feminino,10,Sonolência diurna,146,4,Adam,95,Feliz
+358,19,Feminino,10,Sonolência diurna,115,1,Timothy,84,Indiferente
+359,28,Feminino,6,Dificuldade em manter o sono,187,0,John,111,Aborrecido
+360,42,Feminino,4,Insônia ocasional,131,3,Brent,69,Animado
+361,24,Feminino,6,Insônia crônica,156,0,Mike,105,Animado
+362,36,Masculino,9,Sonambulismo,22,2,Christopher,71,Sonolenta
+363,61,Feminino,9,Apneia do sono,28,5,Karen,112,Cansado
+364,65,Feminino,6,Sem Problema,147,5,Craig,100,Levemente irritado
+365,55,Feminino,9,Sonolência diurna,131,5,Kenneth,115,Feliz
+366,38,Feminino,4,Sonambulismo,177,1,Christopher,55,Levemente irritado
+367,62,Feminino,7,Insônia crônica,183,2,Tricia,63,Feliz
+368,68,Feminino,9,Apneia do sono,72,0,Joshua,111,Sonolenta
+369,22,Masculino,8,Sonolência diurna,51,1,Julie,74,Indiferente
+370,58,Masculino,4,Sonolência diurna,45,4,Amanda,72,Aborrecido
+371,68,Feminino,7,Dificuldade em adormecer,108,2,Steven,56,Animado
+372,33,Masculino,5,Dificuldade em adormecer,160,0,Jacob,110,Cansado
+373,52,Feminino,7,Dificuldade em manter o sono,2,2,Kyle,87,Animado
+374,58,Masculino,10,Apneia do sono,62,4,Raven,95,Indiferente
+375,69,Masculino,9,Insônia crônica,195,5,Brian,106,Aborrecido
+376,64,Feminino,5,Insônia crônica,91,0,Jonathan,78,Indiferente
+377,42,Masculino,8,Apneia do sono,122,2,Charles,93,Indiferente
+378,51,Masculino,8,Sonambulismo,4,5,Nicole,103,Aborrecido
+379,34,Feminino,5,Sonambulismo,35,1,Brian,119,Sonolenta
+380,70,Feminino,4,Dificuldade em adormecer,137,3,David,88,Indiferente
+381,47,Feminino,4,Insônia crônica,49,4,Jessica,105,Indiferente
+382,42,Masculino,8,Sem Problema,68,3,Tammy,63,Cansado
+383,65,Masculino,4,Insônia crônica,180,4,Amanda,65,Levemente irritado
+384,62,Masculino,4,Apneia do sono,49,3,Logan,88,Feliz
+385,23,Feminino,4,Insônia ocasional,69,4,William,115,Cansado
+386,53,Masculino,9,Insônia ocasional,61,5,Betty,116,De bom humor
+387,70,Masculino,10,Sonolência diurna,132,5,Jonathan,78,Aborrecido
+388,32,Masculino,7,Insônia ocasional,133,3,Michael,81,Sonolenta
+389,61,Masculino,6,Insônia crônica,162,1,Katherine,109,Indiferente
+390,68,Feminino,10,Dificuldade em adormecer,131,5,Linda,91,Cansado
+391,21,Masculino,6,Sem Problema,82,2,Kelsey,112,De bom humor
+392,22,Feminino,9,Insônia crônica,14,1,Ashley,56,Animado
+393,42,Masculino,9,Sonambulismo,16,1,Joshua,62,Cansado
+394,38,Feminino,7,Sonambulismo,159,1,Veronica,102,Cansado
+395,46,Feminino,10,Dificuldade em adormecer,109,2,Amanda,97,Aborrecido
+396,37,Feminino,6,Insônia ocasional,151,3,Joseph,86,Feliz
+397,56,Feminino,8,Insônia crônica,42,3,Jeffrey,120,Feliz
+398,61,Masculino,8,Insônia ocasional,179,4,Shawn,101,De bom humor
+399,42,Feminino,4,Dificuldade em manter o sono,158,1,Melissa,89,Cansado
+400,35,Masculino,6,Dificuldade em manter o sono,182,2,Steven,56,De bom humor
+401,32,Feminino,8,Sonolência diurna,30,2,Mark,55,De bom humor
+402,28,Masculino,6,Sem Problema,71,4,Thomas,87,De bom humor
+403,36,Feminino,9,Dificuldade em manter o sono,149,5,Patricia,95,Aborrecido
+404,52,Masculino,9,Dificuldade em manter o sono,138,3,Chris,64,Sonolenta
+405,61,Masculino,6,Apneia do sono,38,1,Heidi,105,Levemente irritado
+406,23,Feminino,5,Sonambulismo,72,5,Jason,106,Feliz
+407,53,Feminino,4,Apneia do sono,121,5,Anita,91,De bom humor
+408,66,Masculino,7,Sem Problema,134,2,Robert,108,Cansado
+409,66,Masculino,6,Sem Problema,26,4,Danielle,68,Indiferente
+410,41,Feminino,10,Sonolência diurna,59,0,Dawn,77,Aborrecido
+411,27,Feminino,7,Sem Problema,114,2,Stephanie,89,Feliz
+412,61,Feminino,9,Sonambulismo,96,1,Deborah,96,Cansado
+413,37,Feminino,7,Insônia ocasional,119,5,Richard,104,Sonolenta
+414,62,Feminino,8,Insônia crônica,84,0,Brian,87,Aborrecido
+415,46,Feminino,9,Dificuldade em adormecer,91,1,Eric,111,Sonolenta
+416,42,Feminino,9,Sem Problema,28,1,Tyler,102,Cansado
+417,66,Feminino,10,Insônia ocasional,91,0,Michael,120,Animado
+418,18,Feminino,6,Apneia do sono,70,3,Cheryl,86,Feliz
+419,70,Masculino,10,Dificuldade em manter o sono,16,1,Brooke,67,Feliz
+420,46,Masculino,6,Apneia do sono,2,4,Pamela,106,Levemente irritado
+421,55,Feminino,8,Dificuldade em manter o sono,42,5,Elizabeth,119,Animado
+422,40,Masculino,8,Dificuldade em manter o sono,154,5,Edwin,88,De bom humor
+423,51,Feminino,4,Dificuldade em adormecer,173,4,Stephen,114,Sonolenta
+424,40,Feminino,10,Dificuldade em adormecer,86,4,Michael,104,Levemente irritado
+425,46,Masculino,6,Sem Problema,181,3,Vanessa,56,Feliz
+426,64,Masculino,4,Insônia ocasional,172,0,Jennifer,70,Aborrecido
+427,42,Feminino,9,Sonolência diurna,38,0,Brandon,77,Indiferente
+428,31,Masculino,5,Dificuldade em adormecer,84,2,Melissa,92,Sonolenta
+429,28,Masculino,8,Dificuldade em adormecer,140,4,Amanda,65,Cansado
+430,28,Masculino,9,Sem Problema,190,5,Christopher,82,Animado
+431,22,Masculino,8,Dificuldade em manter o sono,181,3,Cody,119,Cansado
+432,26,Feminino,8,Sonolência diurna,50,1,Richard,98,Sonolenta
+433,45,Feminino,10,Apneia do sono,186,0,Sarah,92,Animado
+434,65,Masculino,4,Dificuldade em adormecer,119,5,Alexis,66,Levemente irritado
+435,29,Masculino,7,Insônia crônica,156,1,Jeffrey,59,Levemente irritado
+436,64,Feminino,7,Dificuldade em adormecer,170,3,Carla,108,Cansado
+437,52,Feminino,10,Dificuldade em adormecer,35,4,Robert,89,Feliz
+438,70,Feminino,7,Sonolência diurna,107,5,Angela,98,Animado
+439,31,Masculino,10,Dificuldade em manter o sono,181,2,Megan,83,De bom humor
+440,60,Masculino,9,Sonambulismo,111,4,Richard,80,De bom humor
+441,23,Feminino,4,Dificuldade em adormecer,58,4,Lori,79,Aborrecido
+442,38,Feminino,8,Sonambulismo,68,3,Rachel,58,Levemente irritado
+443,18,Feminino,10,Insônia ocasional,197,4,Vanessa,64,Feliz
+444,28,Masculino,10,Sonolência diurna,3,0,Sandra,90,Cansado
+445,52,Masculino,9,Sonambulismo,62,0,Christopher,101,De bom humor
+446,22,Feminino,6,Dificuldade em adormecer,67,0,William,120,Levemente irritado
+447,50,Feminino,6,Insônia crônica,2,3,Taylor,110,Animado
+448,50,Feminino,9,Sem Problema,45,2,George,109,Cansado
+449,61,Masculino,9,Insônia ocasional,73,2,Samantha,64,De bom humor
+450,56,Masculino,4,Insônia crônica,162,2,Jared,92,Sonolenta
+451,70,Masculino,8,Insônia crônica,142,4,Kaitlin,103,Cansado
+452,34,Masculino,9,Sem Problema,46,2,Kara,110,Feliz
+453,62,Feminino,10,Dificuldade em manter o sono,160,5,Jennifer,100,Indiferente
+454,19,Feminino,6,Dificuldade em adormecer,72,0,Jeremy,60,Aborrecido
+455,54,Masculino,5,Sem Problema,44,5,Jean,98,Cansado
+456,26,Masculino,6,Sonambulismo,122,0,Angela,64,Sonolenta
+457,35,Masculino,7,Insônia ocasional,76,2,Destiny,114,Aborrecido
+458,38,Feminino,9,Sem Problema,64,1,Cassandra,106,Animado
+459,27,Feminino,10,Sonolência diurna,99,5,Jasmine,101,Feliz
+460,18,Feminino,6,Sem Problema,133,5,Jacob,113,De bom humor
+461,50,Masculino,6,Dificuldade em adormecer,118,1,Ashley,95,Aborrecido
+462,52,Feminino,8,Apneia do sono,107,0,Jodi,93,Sonolenta
+463,39,Masculino,10,Insônia crônica,63,5,Brady,110,Levemente irritado
+464,35,Feminino,4,Sonolência diurna,104,3,Lisa,116,De bom humor
+465,33,Masculino,6,Sonolência diurna,85,1,James,120,Animado
+466,34,Masculino,7,Insônia ocasional,127,2,Melinda,88,Feliz
+467,43,Masculino,5,Dificuldade em adormecer,66,1,Robert,79,Levemente irritado
+468,35,Masculino,10,Apneia do sono,147,0,Susan,68,Levemente irritado
+469,67,Masculino,10,Apneia do sono,4,0,Patricia,69,Indiferente
+470,36,Masculino,10,Insônia crônica,162,3,Sandra,104,Sonolenta
+471,27,Feminino,9,Insônia ocasional,124,4,Dalton,72,Indiferente
+472,31,Masculino,7,Apneia do sono,191,3,Thomas,118,Cansado
+473,65,Feminino,6,Insônia crônica,16,5,Emily,81,Feliz
+474,41,Masculino,6,Sonambulismo,134,2,Holly,90,Indiferente
+475,27,Masculino,8,Sonambulismo,123,3,Antonio,73,Feliz
+476,32,Feminino,10,Dificuldade em manter o sono,44,3,Carol,100,Aborrecido
+477,18,Feminino,7,Sem Problema,182,5,Travis,62,Sonolenta
+478,47,Feminino,10,Dificuldade em adormecer,187,4,Samantha,99,Aborrecido
+479,63,Feminino,10,Dificuldade em manter o sono,87,0,Paul,77,De bom humor
+480,36,Masculino,8,Sonolência diurna,82,3,Craig,116,Indiferente
+481,36,Masculino,8,Dificuldade em adormecer,78,3,Sara,110,De bom humor
+482,49,Masculino,9,Sonolência diurna,44,4,Michael,94,Levemente irritado
+483,22,Feminino,6,Sem Problema,49,0,Erin,68,Cansado
+484,55,Feminino,7,Dificuldade em manter o sono,109,0,Kevin,75,De bom humor
+485,60,Masculino,7,Insônia crônica,87,1,Ryan,70,Levemente irritado
+486,69,Masculino,6,Insônia ocasional,53,1,Cynthia,113,Indiferente
+487,23,Masculino,10,Sonolência diurna,85,0,Charles,116,Aborrecido
+488,33,Feminino,6,Sonolência diurna,183,3,Shirley,59,Animado
+489,18,Masculino,7,Insônia crônica,154,1,Aaron,88,Sonolenta
+490,51,Feminino,9,Apneia do sono,33,4,Amy,83,De bom humor
+491,26,Feminino,10,Dificuldade em adormecer,193,4,Laura,64,Levemente irritado
+492,63,Masculino,7,Insônia crônica,157,2,Mallory,120,Feliz
+493,40,Feminino,4,Sem Problema,34,1,Erik,102,Sonolenta
+494,28,Feminino,6,Dificuldade em manter o sono,52,0,Renee,108,Animado
+495,39,Masculino,10,Apneia do sono,75,0,Todd,86,Cansado
+496,41,Feminino,10,Insônia ocasional,164,4,Jacob,58,Cansado
+497,43,Feminino,10,Sem Problema,57,5,Nicholas,58,Cansado
+498,64,Feminino,8,Sonolência diurna,29,2,Amanda,56,Sonolenta
+499,29,Feminino,7,Apneia do sono,40,0,Devin,100,Animado
+500,38,Feminino,5,Sonolência diurna,190,1,Jose,93,Aborrecido
+501,21,Masculino,7,Sonolência diurna,60,1,Stephanie,90,Feliz
+502,19,Feminino,4,Dificuldade em adormecer,37,1,Holly,72,Indiferente
+503,39,Feminino,10,Sonolência diurna,14,2,Justin,66,Feliz
+504,30,Masculino,7,Insônia crônica,55,2,Cindy,75,Sonolenta
+505,30,Masculino,9,Insônia ocasional,122,2,Brittney,106,Animado
+506,38,Masculino,6,Sem Problema,99,2,Lisa,74,Indiferente
+507,21,Feminino,5,Sonolência diurna,179,1,Darlene,100,Animado
+508,62,Masculino,6,Dificuldade em adormecer,65,1,Mark,62,De bom humor
+509,48,Masculino,5,Sem Problema,155,0,Andrea,92,Levemente irritado
+510,18,Feminino,4,Sonambulismo,57,0,Gregory,55,Levemente irritado
+511,61,Feminino,8,Sonambulismo,167,3,Summer,74,De bom humor
+512,25,Masculino,8,Dificuldade em adormecer,58,3,Richard,60,Cansado
+513,35,Feminino,6,Insônia crônica,161,0,Joseph,81,Indiferente
+514,38,Feminino,6,Insônia ocasional,145,0,Erica,89,Aborrecido
+515,44,Feminino,4,Sonolência diurna,0,4,Allison,106,Sonolenta
+516,37,Feminino,10,Sonolência diurna,183,0,Johnny,64,Sonolenta
+517,70,Feminino,5,Sem Problema,181,4,Christopher,97,Sonolenta
+518,56,Feminino,7,Sem Problema,128,0,Christopher,78,Sonolenta
+519,62,Feminino,8,Insônia crônica,127,2,Trevor,99,Sonolenta
+520,64,Masculino,10,Sonolência diurna,111,3,Danielle,106,Aborrecido
+521,40,Masculino,5,Dificuldade em manter o sono,94,4,Carol,112,Cansado
+522,69,Masculino,5,Sonambulismo,62,3,Mary,84,Cansado
+523,65,Feminino,6,Sem Problema,182,5,Douglas,85,Indiferente
+524,69,Masculino,7,Apneia do sono,69,5,Ronald,82,Animado
+525,59,Masculino,4,Sem Problema,49,3,Heather,83,Levemente irritado
+526,28,Feminino,4,Sonambulismo,9,4,Patricia,61,Animado
+527,62,Masculino,6,Dificuldade em adormecer,43,0,Angelica,63,Aborrecido
+528,60,Masculino,10,Dificuldade em manter o sono,180,3,Jeffrey,70,Feliz
+529,64,Masculino,8,Sonolência diurna,38,2,Craig,83,Feliz
+530,28,Feminino,8,Sonambulismo,42,2,Valerie,55,Cansado
+531,21,Feminino,10,Sonambulismo,35,5,Michael,56,Cansado
+532,30,Masculino,6,Insônia ocasional,7,1,Andrew,60,Sonolenta
+533,66,Masculino,5,Dificuldade em adormecer,152,2,Samantha,76,De bom humor
+534,62,Feminino,4,Dificuldade em manter o sono,146,4,Andrea,73,Levemente irritado
+535,53,Feminino,10,Dificuldade em adormecer,54,2,Jeffrey,71,Indiferente
+536,22,Feminino,4,Sonolência diurna,80,1,Jill,81,Levemente irritado
+537,63,Masculino,4,Dificuldade em manter o sono,103,4,Diana,65,Feliz
+538,55,Feminino,4,Insônia ocasional,100,5,Richard,106,Cansado
+539,53,Masculino,4,Apneia do sono,38,1,Catherine,96,Aborrecido
+540,18,Feminino,4,Apneia do sono,23,1,James,88,Indiferente
+541,62,Feminino,6,Apneia do sono,47,2,Maria,82,Animado
+542,18,Feminino,7,Sonolência diurna,60,5,Sherri,69,Levemente irritado
+543,65,Feminino,8,Sonolência diurna,156,0,Angela,90,Sonolenta
+544,66,Feminino,4,Sem Problema,175,3,Leslie,83,Levemente irritado
+545,35,Masculino,9,Dificuldade em manter o sono,102,5,Dana,62,Cansado
+546,58,Masculino,10,Dificuldade em manter o sono,131,1,Jacob,114,Levemente irritado
+547,46,Masculino,9,Dificuldade em manter o sono,185,5,Brian,100,Aborrecido
+548,42,Masculino,4,Sem Problema,78,1,Daniel,69,Aborrecido
+549,63,Masculino,6,Sem Problema,58,4,Ryan,114,Indiferente
+550,61,Masculino,7,Sonambulismo,10,5,Shelly,109,Levemente irritado
+551,67,Masculino,10,Apneia do sono,199,5,Jason,57,Levemente irritado
+552,57,Masculino,7,Dificuldade em manter o sono,21,5,Leslie,115,Animado
+553,50,Feminino,9,Apneia do sono,72,3,Thomas,120,Aborrecido
+554,37,Masculino,10,Apneia do sono,72,0,Diana,93,Cansado
+555,64,Feminino,9,Dificuldade em manter o sono,101,2,Nicole,85,Cansado
+556,68,Masculino,10,Dificuldade em adormecer,1,1,Jeffery,56,Feliz
+557,64,Feminino,8,Dificuldade em manter o sono,123,4,Zachary,75,Indiferente
+558,38,Masculino,9,Insônia crônica,63,5,Anthony,96,Animado
+559,57,Feminino,8,Dificuldade em manter o sono,138,3,Gary,65,Levemente irritado
+560,18,Feminino,5,Sonolência diurna,182,3,Tracie,95,Aborrecido
+561,58,Feminino,9,Sem Problema,93,3,Sarah,89,Sonolenta
+562,29,Masculino,10,Insônia ocasional,97,2,Kevin,116,Cansado
+563,53,Feminino,8,Insônia crônica,2,0,Gina,72,Cansado
+564,51,Feminino,8,Insônia ocasional,136,4,Bryan,56,Sonolenta
+565,18,Feminino,6,Sem Problema,44,3,Ronald,63,Cansado
+566,68,Masculino,10,Apneia do sono,14,3,Ashley,81,Levemente irritado
+567,60,Feminino,7,Dificuldade em manter o sono,37,3,Debra,69,Animado
+568,68,Masculino,10,Insônia ocasional,120,5,Maria,76,De bom humor
+569,32,Feminino,9,Insônia ocasional,116,5,Brad,72,Levemente irritado
+570,64,Feminino,4,Dificuldade em adormecer,49,1,Brittany,106,Indiferente
+571,42,Masculino,7,Insônia crônica,120,0,Carrie,63,Animado
+572,26,Feminino,6,Dificuldade em manter o sono,80,4,Stephanie,90,Cansado
+573,40,Feminino,6,Sonolência diurna,180,2,Manuel,106,Aborrecido
+574,57,Masculino,6,Apneia do sono,38,1,Carolyn,56,Sonolenta
+575,40,Masculino,10,Dificuldade em manter o sono,133,5,Michael,105,Indiferente
+576,57,Feminino,6,Insônia crônica,86,0,Daniel,66,Animado
+577,37,Feminino,8,Sonolência diurna,40,3,Amanda,118,Sonolenta
+578,49,Masculino,10,Insônia crônica,81,2,Tamara,73,Indiferente
+579,38,Feminino,7,Apneia do sono,18,4,Brett,106,Aborrecido
+580,18,Feminino,7,Dificuldade em adormecer,10,5,Samuel,79,Sonolenta
+581,35,Feminino,8,Dificuldade em manter o sono,152,2,Jennifer,99,Animado
+582,47,Masculino,8,Apneia do sono,145,2,Donald,97,Indiferente
+583,25,Masculino,10,Apneia do sono,158,2,Joshua,60,Animado
+584,39,Feminino,10,Dificuldade em manter o sono,199,4,Thomas,78,Indiferente
+585,46,Feminino,4,Sonolência diurna,157,2,Kimberly,109,De bom humor
+586,47,Masculino,8,Sem Problema,154,1,Crystal,92,Indiferente
+587,18,Feminino,5,Insônia crônica,142,3,Isabel,96,Cansado
+588,29,Feminino,5,Dificuldade em manter o sono,123,5,James,71,Animado
+589,50,Masculino,5,Dificuldade em adormecer,164,4,Russell,73,Cansado
+590,46,Masculino,9,Sonambulismo,133,4,Bernard,62,Animado
+591,34,Feminino,9,Dificuldade em manter o sono,102,2,Lisa,61,Feliz
+592,64,Masculino,9,Sonambulismo,126,4,Derek,82,Indiferente
+593,63,Feminino,4,Sonambulismo,89,2,Eric,81,Indiferente
+594,32,Masculino,4,Sonolência diurna,69,3,Crystal,78,Indiferente
+595,29,Masculino,4,Insônia crônica,83,0,Jill,74,Animado
+596,34,Feminino,8,Dificuldade em manter o sono,97,5,Alan,67,Sonolenta
+597,19,Masculino,7,Insônia ocasional,86,4,Cindy,119,De bom humor
+598,38,Feminino,8,Sonolência diurna,32,0,Mary,112,Cansado
+599,37,Masculino,10,Dificuldade em manter o sono,153,4,Sydney,59,Levemente irritado
+600,63,Masculino,4,Insônia crônica,47,0,Angela,55,De bom humor
+601,40,Feminino,9,Dificuldade em manter o sono,28,2,Rhonda,63,Indiferente
+602,24,Masculino,10,Dificuldade em manter o sono,86,5,Samuel,63,Aborrecido
+603,48,Feminino,7,Sonolência diurna,73,1,Stephanie,85,Aborrecido
+604,57,Masculino,4,Sonolência diurna,120,4,Nicholas,75,Sonolenta
+605,53,Feminino,5,Insônia ocasional,128,3,Lynn,113,Indiferente
+606,57,Masculino,4,Dificuldade em adormecer,65,1,Crystal,81,Aborrecido
+607,40,Masculino,10,Sem Problema,9,2,Rhonda,95,Aborrecido
+608,61,Masculino,9,Sonambulismo,53,2,Christina,72,Cansado
+609,28,Masculino,10,Sonolência diurna,60,5,Deanna,64,Indiferente
+610,66,Feminino,10,Insônia ocasional,155,3,Eileen,78,Indiferente
+611,33,Masculino,4,Dificuldade em manter o sono,30,1,Nathan,119,Aborrecido
+612,35,Masculino,7,Sem Problema,135,4,Nathan,114,Sonolenta
+613,48,Masculino,8,Dificuldade em manter o sono,81,2,Tammy,74,Aborrecido
+614,39,Feminino,9,Sonolência diurna,153,3,Wesley,64,Indiferente
+615,60,Feminino,9,Sonolência diurna,196,0,Elizabeth,80,Indiferente
+616,33,Feminino,7,Sonambulismo,21,3,Sarah,114,Sonolenta
+617,49,Masculino,6,Sonambulismo,133,4,Sabrina,68,De bom humor
+618,38,Masculino,8,Insônia crônica,195,0,Tyler,61,Feliz
+619,22,Feminino,10,Dificuldade em manter o sono,116,0,Lauren,92,Indiferente
+620,33,Masculino,5,Sonolência diurna,74,1,Katrina,92,Cansado
+621,47,Feminino,10,Sonambulismo,166,0,Danny,84,Animado
+622,21,Feminino,9,Sem Problema,138,1,Debbie,116,Sonolenta
+623,50,Masculino,5,Apneia do sono,75,5,Jessica,91,Aborrecido
+624,60,Masculino,6,Sem Problema,66,0,Brandon,65,Feliz
+625,24,Masculino,8,Dificuldade em manter o sono,115,3,Alexandria,84,Sonolenta
+626,31,Masculino,7,Dificuldade em manter o sono,80,5,Frederick,86,Feliz
+627,29,Masculino,6,Sem Problema,28,4,Robin,65,Indiferente
+628,35,Masculino,10,Dificuldade em manter o sono,177,2,Brooke,58,Feliz
+629,44,Masculino,6,Sem Problema,154,1,Kirsten,110,Levemente irritado
+630,41,Feminino,6,Dificuldade em adormecer,10,5,Sarah,95,Feliz
+631,19,Masculino,10,Sonolência diurna,66,3,Natalie,119,Sonolenta
+632,28,Feminino,5,Sonambulismo,166,1,Michelle,66,Aborrecido
+633,41,Feminino,5,Dificuldade em manter o sono,27,4,Laura,101,Feliz
+634,53,Masculino,4,Apneia do sono,81,5,Janice,117,Levemente irritado
+635,57,Feminino,4,Sonolência diurna,133,0,Jeanette,83,Indiferente
+636,65,Feminino,5,Dificuldade em manter o sono,196,0,Donna,110,Indiferente
+637,64,Feminino,9,Sonolência diurna,132,5,Carl,111,De bom humor
+638,47,Feminino,7,Sem Problema,71,1,Jessica,59,Animado
+639,45,Masculino,10,Dificuldade em adormecer,116,2,Natalie,120,De bom humor
+640,24,Feminino,9,Insônia crônica,6,0,Kimberly,64,Animado
+641,38,Masculino,8,Sonambulismo,193,2,Jennifer,86,Animado
+642,23,Masculino,10,Dificuldade em adormecer,154,1,Christina,102,Cansado
+643,45,Masculino,9,Insônia ocasional,95,3,Chelsea,95,Indiferente
+644,20,Feminino,10,Dificuldade em adormecer,127,2,April,88,Aborrecido
+645,23,Feminino,10,Sem Problema,133,1,David,94,Levemente irritado
+646,32,Masculino,7,Sonambulismo,64,3,Debra,88,Aborrecido
+647,45,Feminino,5,Apneia do sono,48,3,Tanya,81,Sonolenta
+648,25,Feminino,6,Apneia do sono,56,2,Mandy,71,Feliz
+649,32,Masculino,8,Dificuldade em manter o sono,60,4,Emma,117,Cansado
+650,44,Feminino,5,Sonolência diurna,143,3,Paul,91,Feliz
+651,36,Masculino,4,Sem Problema,9,0,Joshua,87,Indiferente
+652,69,Masculino,9,Sonambulismo,74,0,Amber,114,Feliz
+653,32,Feminino,5,Dificuldade em manter o sono,197,3,Julie,68,Indiferente
+654,52,Masculino,10,Apneia do sono,75,1,Jon,71,Cansado
+655,47,Feminino,4,Apneia do sono,181,4,Connie,79,Cansado
+656,70,Masculino,6,Insônia crônica,165,1,Melvin,59,Sonolenta
+657,46,Masculino,6,Insônia ocasional,2,0,Laura,92,Indiferente
+658,29,Masculino,9,Insônia crônica,72,2,Kathryn,62,Indiferente
+659,53,Masculino,5,Dificuldade em adormecer,3,3,Barbara,104,Aborrecido
+660,39,Feminino,9,Insônia ocasional,147,4,Jennifer,102,Cansado
+661,24,Feminino,6,Sonambulismo,99,5,Michelle,113,Levemente irritado
+662,50,Masculino,9,Sonolência diurna,99,1,Brenda,84,Sonolenta
+663,29,Feminino,5,Insônia crônica,27,4,Stephen,111,Aborrecido
+664,54,Masculino,5,Sem Problema,134,4,Patricia,91,Cansado
+665,65,Masculino,10,Sonolência diurna,183,1,Tyler,106,Aborrecido
+666,29,Masculino,7,Dificuldade em adormecer,69,2,Valerie,94,Levemente irritado
+667,34,Masculino,4,Sem Problema,111,1,Mary,87,De bom humor
+668,69,Masculino,8,Dificuldade em adormecer,199,2,Timothy,104,Cansado
+669,59,Feminino,4,Sonolência diurna,138,4,April,117,Cansado
+670,61,Feminino,4,Apneia do sono,13,2,Connie,113,Cansado
+671,37,Feminino,6,Apneia do sono,122,3,Karen,86,Cansado
+672,39,Feminino,8,Dificuldade em adormecer,162,5,Gary,104,Cansado
+673,67,Masculino,8,Dificuldade em manter o sono,28,3,Savannah,104,Levemente irritado
+674,38,Feminino,9,Insônia crônica,58,4,Tiffany,106,Animado
+675,43,Masculino,4,Sonolência diurna,36,4,Michelle,65,De bom humor
+676,29,Feminino,5,Dificuldade em adormecer,65,1,Loretta,67,Animado
+677,42,Feminino,9,Insônia ocasional,103,3,Steven,61,Aborrecido
+678,46,Feminino,9,Sonolência diurna,95,2,Julie,86,Levemente irritado
+679,53,Feminino,6,Apneia do sono,157,5,Larry,95,Animado
+680,26,Masculino,7,Apneia do sono,159,0,Christopher,108,Levemente irritado
+681,23,Masculino,8,Sonambulismo,25,1,Lisa,85,Cansado
+682,40,Feminino,6,Dificuldade em adormecer,111,3,David,77,Animado
+683,24,Feminino,9,Sonolência diurna,113,1,Ashley,78,Indiferente
+684,30,Masculino,9,Apneia do sono,50,3,Patricia,66,Sonolenta
+685,51,Masculino,5,Insônia crônica,53,5,Richard,111,Animado
+686,60,Feminino,7,Sem Problema,74,0,Renee,87,Animado
+687,39,Feminino,6,Sonambulismo,63,4,John,105,Feliz
+688,39,Feminino,10,Insônia ocasional,2,4,Amy,104,Feliz
+689,65,Feminino,9,Dificuldade em adormecer,78,1,Alicia,103,Animado
+690,36,Masculino,10,Sonolência diurna,177,1,Matthew,79,Indiferente
+691,62,Feminino,4,Dificuldade em manter o sono,181,1,Jacob,73,Cansado
+692,57,Masculino,6,Sonambulismo,11,0,Kristen,93,Animado
+693,54,Feminino,6,Insônia crônica,104,1,Alyssa,76,De bom humor
+694,24,Feminino,9,Sem Problema,115,2,James,109,Sonolenta
+695,22,Feminino,10,Sem Problema,101,3,Veronica,56,Sonolenta
+696,52,Masculino,9,Sem Problema,71,5,Debra,81,Feliz
+697,43,Feminino,10,Apneia do sono,62,3,Kayla,56,De bom humor
+698,66,Feminino,10,Dificuldade em adormecer,74,0,Jordan,61,Cansado
+699,57,Feminino,4,Sonambulismo,69,4,Emily,106,Aborrecido
+700,34,Feminino,7,Apneia do sono,186,1,Kevin,120,Feliz
+701,32,Feminino,8,Insônia crônica,29,2,Penny,65,De bom humor
+702,68,Feminino,5,Dificuldade em manter o sono,196,5,Crystal,94,Aborrecido
+703,63,Masculino,10,Insônia crônica,99,5,Samantha,104,Aborrecido
+704,67,Feminino,9,Apneia do sono,81,1,Angela,111,Aborrecido
+705,35,Feminino,4,Sonambulismo,1,2,Maurice,97,Feliz
+706,47,Masculino,6,Insônia crônica,112,4,Lisa,97,Cansado
+707,58,Feminino,8,Dificuldade em manter o sono,145,4,Maureen,61,Levemente irritado
+708,32,Feminino,8,Insônia crônica,7,5,Michael,59,Feliz
+709,51,Masculino,7,Apneia do sono,99,3,Kathy,98,Indiferente
+710,49,Feminino,5,Insônia crônica,127,4,Kenneth,93,Aborrecido
+711,25,Feminino,10,Insônia crônica,1,2,Joseph,104,Feliz
+712,47,Feminino,10,Sem Problema,102,5,Manuel,81,De bom humor
+713,38,Masculino,4,Insônia crônica,97,3,Christine,71,Aborrecido
+714,52,Masculino,10,Sem Problema,157,1,Janice,55,Cansado
+715,70,Masculino,7,Dificuldade em manter o sono,134,1,Trevor,76,Animado
+716,26,Feminino,9,Apneia do sono,50,0,William,64,Indiferente
+717,64,Masculino,5,Sonambulismo,1,4,Julie,107,Animado
+718,24,Feminino,4,Dificuldade em manter o sono,173,4,Kevin,91,Feliz
+719,46,Feminino,9,Dificuldade em adormecer,174,0,Matthew,94,De bom humor
+720,68,Masculino,6,Sonambulismo,98,2,Stephanie,101,De bom humor
+721,69,Feminino,10,Apneia do sono,171,0,Angela,113,Sonolenta
+722,29,Feminino,8,Dificuldade em manter o sono,117,2,Patricia,108,Levemente irritado
+723,38,Feminino,7,Apneia do sono,30,2,Isaac,92,Aborrecido
+724,60,Masculino,9,Sonambulismo,141,1,Amber,64,Indiferente
+725,56,Masculino,8,Dificuldade em manter o sono,165,0,Jodi,58,Feliz
+726,18,Feminino,5,Sem Problema,1,0,Kimberly,79,De bom humor
+727,62,Masculino,10,Apneia do sono,119,3,Eric,64,Levemente irritado
+728,26,Masculino,10,Sem Problema,90,2,Louis,96,Levemente irritado
+729,64,Feminino,7,Sem Problema,155,0,Ashley,61,Cansado
+730,35,Masculino,10,Dificuldade em manter o sono,70,3,Cynthia,58,De bom humor
+731,22,Feminino,10,Sonolência diurna,52,5,John,120,Sonolenta
+732,32,Masculino,5,Dificuldade em adormecer,120,1,Jeffrey,59,Aborrecido
+733,42,Feminino,9,Insônia crônica,10,0,Robert,111,De bom humor
+734,37,Masculino,10,Insônia ocasional,8,0,Audrey,89,Animado
+735,31,Masculino,8,Sonolência diurna,136,1,Aaron,117,Aborrecido
+736,47,Masculino,6,Insônia ocasional,54,3,Sarah,103,De bom humor
+737,33,Masculino,5,Insônia ocasional,121,2,Jean,73,Sonolenta
+738,38,Masculino,8,Insônia crônica,36,5,Kristi,102,Aborrecido
+739,45,Masculino,10,Sonolência diurna,192,3,Gary,87,Levemente irritado
+740,55,Masculino,6,Apneia do sono,23,5,Jeffrey,77,Levemente irritado
+741,59,Masculino,4,Sem Problema,70,3,Mark,70,Cansado
+742,53,Feminino,8,Sem Problema,114,3,Alexander,84,Animado
+743,31,Masculino,4,Dificuldade em manter o sono,56,5,William,97,Indiferente
+744,26,Feminino,10,Insônia crônica,195,2,Megan,71,Aborrecido
+745,35,Feminino,10,Dificuldade em adormecer,179,4,Gabrielle,104,Sonolenta
+746,19,Masculino,7,Sem Problema,99,3,Alisha,84,Aborrecido
+747,66,Feminino,4,Insônia crônica,129,5,Sherry,59,Feliz
+748,19,Masculino,8,Dificuldade em manter o sono,141,4,Thomas,120,Cansado
+749,32,Masculino,5,Sonambulismo,140,1,Benjamin,107,Sonolenta
+750,38,Feminino,6,Sonolência diurna,42,3,Jeffrey,112,Aborrecido
+751,32,Masculino,9,Sem Problema,108,5,Alicia,98,Indiferente
+752,36,Feminino,9,Dificuldade em adormecer,23,0,Christopher,72,Levemente irritado
+753,34,Masculino,9,Insônia crônica,165,5,Anthony,74,Indiferente
+754,22,Feminino,10,Sonolência diurna,61,4,Eric,104,Feliz
+755,56,Masculino,5,Dificuldade em adormecer,188,5,Tiffany,96,Indiferente
+756,19,Feminino,6,Apneia do sono,162,2,Jacob,86,Sonolenta
+757,47,Feminino,9,Apneia do sono,196,4,Jessica,73,Feliz
+758,55,Masculino,7,Insônia crônica,173,0,Chelsea,72,De bom humor
+759,69,Masculino,8,Sem Problema,191,1,Jesse,98,Cansado
+760,40,Feminino,8,Insônia ocasional,156,2,Sherri,99,Levemente irritado
+761,19,Masculino,7,Insônia crônica,43,2,Adrian,99,Animado
+762,41,Feminino,6,Insônia crônica,47,4,Debra,101,Feliz
+763,41,Masculino,8,Sonolência diurna,19,2,Lance,102,Feliz
+764,53,Masculino,5,Sonolência diurna,122,0,Meagan,64,Animado
+765,70,Feminino,7,Sonambulismo,117,1,Nancy,77,De bom humor
+766,25,Feminino,4,Dificuldade em adormecer,126,5,Jennifer,114,Animado
+767,51,Feminino,6,Insônia crônica,11,0,Timothy,101,Indiferente
+768,25,Feminino,7,Apneia do sono,88,3,Courtney,101,Feliz
+769,61,Masculino,7,Apneia do sono,6,0,Kevin,113,Levemente irritado
+770,21,Masculino,4,Sonolência diurna,10,2,Angela,59,Animado
+771,38,Masculino,4,Apneia do sono,178,0,Michael,94,Levemente irritado
+772,67,Masculino,9,Sonambulismo,199,3,Nathaniel,107,Aborrecido
+773,41,Feminino,7,Insônia ocasional,200,5,Brandon,70,Cansado
+774,62,Feminino,5,Apneia do sono,0,2,Thomas,58,Cansado
+775,49,Masculino,9,Sonolência diurna,59,0,Brian,103,Feliz
+776,41,Feminino,8,Dificuldade em adormecer,25,0,Allison,58,Aborrecido
+777,69,Feminino,10,Insônia crônica,193,1,Nathan,61,Cansado
+778,44,Masculino,4,Dificuldade em manter o sono,182,1,Carol,82,Animado
+779,48,Feminino,7,Dificuldade em adormecer,4,4,Christine,88,Cansado
+780,32,Feminino,7,Insônia ocasional,1,2,Hailey,120,Aborrecido
+781,36,Masculino,6,Insônia ocasional,129,4,Sarah,98,Feliz
+782,52,Masculino,10,Insônia crônica,157,2,Martin,77,Sonolenta
+783,37,Masculino,5,Sonambulismo,152,2,Bethany,111,Cansado
+784,38,Masculino,10,Insônia ocasional,187,3,Bryan,89,Feliz
+785,56,Feminino,6,Sonambulismo,100,0,James,74,Sonolenta
+786,42,Masculino,6,Dificuldade em manter o sono,57,5,Teresa,104,Sonolenta
+787,56,Feminino,4,Sonambulismo,17,5,Eric,95,Sonolenta
+788,37,Masculino,9,Sonambulismo,135,5,Robert,66,Animado
+789,32,Feminino,4,Insônia crônica,107,2,Tina,57,Indiferente
+790,70,Masculino,6,Sonambulismo,94,0,Curtis,80,Feliz
+791,35,Masculino,5,Insônia crônica,10,4,Cody,96,Indiferente
+792,39,Masculino,4,Sonolência diurna,34,3,Brian,69,Feliz
+793,70,Feminino,4,Dificuldade em manter o sono,115,4,Nicole,90,Cansado
+794,48,Feminino,10,Insônia ocasional,130,0,Steven,64,Levemente irritado
+795,26,Feminino,9,Insônia ocasional,141,1,Tamara,67,De bom humor
+796,25,Masculino,10,Dificuldade em manter o sono,192,4,Daniel,69,Animado
+797,25,Masculino,10,Insônia ocasional,33,1,Anthony,84,Feliz
+798,45,Masculino,10,Sonolência diurna,43,4,Logan,88,Levemente irritado
+799,39,Feminino,6,Dificuldade em adormecer,152,2,Nicholas,64,De bom humor
+800,21,Masculino,9,Sem Problema,149,1,Jessica,63,Sonolenta
+801,41,Masculino,5,Dificuldade em adormecer,194,2,Nicholas,71,De bom humor
+802,48,Feminino,4,Insônia crônica,100,2,Michael,64,Aborrecido
+803,42,Masculino,5,Sonambulismo,179,1,Michael,119,Levemente irritado
+804,35,Masculino,9,Apneia do sono,187,2,Helen,116,Cansado
+805,18,Masculino,10,Dificuldade em manter o sono,170,1,Melinda,98,Levemente irritado
+806,31,Feminino,8,Sem Problema,109,5,Angela,64,Aborrecido
+807,60,Feminino,5,Dificuldade em adormecer,41,1,Alison,95,Aborrecido
+808,70,Feminino,10,Insônia ocasional,98,1,Erik,97,De bom humor
+809,21,Masculino,8,Sem Problema,132,3,Kimberly,68,De bom humor
+810,49,Masculino,7,Apneia do sono,65,4,Sarah,56,Sonolenta
+811,32,Feminino,9,Sonambulismo,7,0,Zachary,56,Cansado
+812,54,Feminino,6,Sem Problema,182,3,Johnny,105,Feliz
+813,35,Masculino,10,Sonolência diurna,166,0,James,67,Indiferente
+814,67,Feminino,7,Insônia ocasional,21,4,Nicole,75,Cansado
+815,67,Feminino,4,Dificuldade em manter o sono,41,0,Priscilla,102,Aborrecido
+816,66,Feminino,7,Apneia do sono,43,5,Destiny,108,Animado
+817,21,Masculino,7,Insônia crônica,114,4,Michael,74,Aborrecido
+818,61,Masculino,8,Dificuldade em adormecer,73,0,Jeremiah,76,Cansado
+819,53,Masculino,4,Insônia ocasional,101,5,Jill,88,De bom humor
+820,39,Feminino,8,Insônia crônica,183,0,William,98,Sonolenta
+821,47,Feminino,4,Sem Problema,2,0,Dylan,61,De bom humor
+822,23,Feminino,10,Insônia ocasional,49,0,Timothy,117,Animado
+823,23,Masculino,10,Sonolência diurna,174,2,Sally,112,Animado
+824,37,Feminino,9,Insônia ocasional,193,2,Nathaniel,64,De bom humor
+825,34,Masculino,8,Sonambulismo,124,0,Christina,106,Levemente irritado
+826,30,Feminino,6,Sonolência diurna,102,3,David,58,Indiferente
+827,44,Masculino,10,Insônia crônica,50,1,Daniel,80,Levemente irritado
+828,50,Feminino,8,Apneia do sono,68,5,Cynthia,78,Feliz
+829,36,Feminino,6,Sonolência diurna,13,4,Daniel,110,Cansado
+830,57,Masculino,7,Sem Problema,111,1,Michael,71,Sonolenta
+831,36,Feminino,5,Sonambulismo,67,1,Wayne,80,De bom humor
+832,28,Feminino,4,Dificuldade em adormecer,133,2,Victoria,68,De bom humor
+833,27,Masculino,10,Dificuldade em manter o sono,37,0,Brianna,55,Sonolenta
+834,50,Masculino,7,Insônia ocasional,162,1,William,119,Cansado
+835,45,Feminino,8,Insônia crônica,149,3,Bethany,105,Cansado
+836,57,Masculino,5,Dificuldade em adormecer,48,4,Amy,84,De bom humor
+837,67,Masculino,10,Dificuldade em adormecer,54,3,April,78,Feliz
+838,31,Feminino,9,Dificuldade em adormecer,154,2,Destiny,76,Sonolenta
+839,59,Masculino,9,Sonolência diurna,10,2,Thomas,120,Sonolenta
+840,24,Feminino,6,Dificuldade em manter o sono,147,2,Katherine,120,Indiferente
+841,64,Masculino,9,Insônia crônica,129,0,Michelle,74,De bom humor
+842,68,Feminino,4,Sonambulismo,63,5,Ellen,117,Feliz
+843,18,Masculino,8,Dificuldade em adormecer,107,3,Kelly,60,Cansado
+844,55,Masculino,5,Dificuldade em adormecer,27,4,Terri,78,Feliz
+845,54,Feminino,7,Dificuldade em adormecer,61,2,Gregory,73,Indiferente
+846,34,Feminino,10,Apneia do sono,10,5,Cathy,81,De bom humor
+847,41,Feminino,10,Sonolência diurna,136,3,Pamela,89,Feliz
+848,67,Masculino,10,Sem Problema,194,5,Michael,115,Sonolenta
+849,25,Feminino,7,Apneia do sono,171,0,Jason,116,Levemente irritado
+850,55,Feminino,4,Sonambulismo,192,3,Joseph,66,Sonolenta
+851,23,Masculino,6,Apneia do sono,64,1,Justin,55,Feliz
+852,27,Masculino,7,Sonambulismo,195,2,Aaron,77,Indiferente
+853,51,Masculino,7,Sonambulismo,57,5,Chelsea,72,De bom humor
+854,27,Feminino,10,Apneia do sono,16,4,Susan,72,Aborrecido
+855,40,Feminino,4,Insônia crônica,145,4,Susan,97,Feliz
+856,35,Masculino,6,Insônia ocasional,25,1,April,66,Feliz
+857,26,Masculino,5,Apneia do sono,158,0,Ryan,91,Animado
+858,46,Feminino,10,Dificuldade em manter o sono,125,5,Brenda,76,Cansado
+859,58,Feminino,5,Dificuldade em adormecer,158,5,Jeffery,114,Animado
+860,60,Feminino,7,Insônia crônica,39,0,Jeanette,120,De bom humor
+861,36,Feminino,8,Sem Problema,106,3,Charles,78,De bom humor
+862,39,Feminino,7,Sem Problema,180,3,Matthew,116,Sonolenta
+863,63,Feminino,9,Sonolência diurna,24,2,Ryan,102,Aborrecido
+864,46,Masculino,6,Sonambulismo,97,2,Russell,103,Aborrecido
+865,40,Feminino,5,Dificuldade em manter o sono,122,0,Nicole,68,Sonolenta
+866,69,Feminino,5,Insônia crônica,15,0,Russell,69,De bom humor
+867,51,Feminino,4,Insônia crônica,91,3,Kimberly,101,Feliz
+868,41,Feminino,4,Dificuldade em adormecer,41,5,Sara,63,Animado
+869,34,Masculino,8,Sonambulismo,70,4,Brian,83,Animado
+870,45,Masculino,9,Insônia ocasional,71,3,Kelsey,89,Levemente irritado
+871,51,Masculino,5,Insônia ocasional,130,5,Julie,110,Levemente irritado
+872,26,Feminino,9,Dificuldade em manter o sono,159,5,Michelle,60,Sonolenta
+873,53,Masculino,8,Dificuldade em manter o sono,40,0,Ryan,65,Levemente irritado
+874,26,Masculino,8,Insônia ocasional,145,5,Scott,80,Feliz
+875,70,Masculino,9,Insônia crônica,196,3,Scott,78,Indiferente
+876,47,Masculino,7,Dificuldade em manter o sono,80,1,Melissa,102,Aborrecido
+877,48,Feminino,7,Dificuldade em adormecer,127,2,Billy,105,Indiferente
+878,59,Masculino,6,Dificuldade em adormecer,195,2,Patricia,120,Animado
+879,45,Feminino,9,Sonolência diurna,148,0,Sean,113,Cansado
+880,29,Feminino,6,Dificuldade em adormecer,184,0,Mark,95,Sonolenta
+881,52,Feminino,5,Dificuldade em manter o sono,43,4,Danielle,92,Levemente irritado
+882,30,Feminino,5,Dificuldade em manter o sono,158,0,Steven,90,De bom humor
+883,51,Masculino,6,Sonolência diurna,150,4,Andrew,79,Aborrecido
+884,66,Feminino,6,Dificuldade em adormecer,108,5,Phillip,81,Sonolenta
+885,24,Feminino,10,Dificuldade em manter o sono,89,4,Pamela,60,Feliz
+886,36,Feminino,7,Sonambulismo,166,3,Kayla,102,Indiferente
+887,21,Feminino,8,Sem Problema,178,1,Samuel,104,Animado
+888,55,Masculino,10,Insônia crônica,124,5,Brett,99,Aborrecido
+889,27,Masculino,7,Insônia crônica,54,1,Paige,86,Feliz
+890,36,Feminino,7,Sonolência diurna,64,2,Robin,118,Cansado
+891,33,Masculino,8,Sem Problema,88,4,Tracey,104,Aborrecido
+892,25,Feminino,5,Insônia crônica,135,0,William,96,Animado
+893,45,Feminino,7,Sonolência diurna,67,3,Diana,72,Levemente irritado
+894,53,Masculino,7,Dificuldade em adormecer,199,4,Patricia,72,Levemente irritado
+895,38,Masculino,8,Dificuldade em manter o sono,49,5,Douglas,92,De bom humor
+896,66,Masculino,10,Sonambulismo,120,4,Vincent,100,Cansado
+897,60,Feminino,9,Sem Problema,29,5,Debbie,67,Levemente irritado
+898,41,Feminino,8,Dificuldade em adormecer,120,2,Lisa,97,Feliz
+899,44,Feminino,4,Insônia ocasional,23,5,Tracey,87,Cansado
+900,47,Masculino,10,Insônia crônica,9,0,Randy,101,Animado
+901,42,Masculino,8,Sonolência diurna,46,0,Sonya,103,Cansado
+902,63,Feminino,9,Sem Problema,48,2,Christopher,118,Animado
+903,60,Masculino,6,Dificuldade em manter o sono,95,3,Tyrone,89,De bom humor
+904,24,Masculino,9,Sonambulismo,71,4,Lisa,105,Sonolenta
+905,58,Feminino,7,Dificuldade em manter o sono,169,3,Matthew,55,De bom humor
+906,31,Masculino,6,Dificuldade em adormecer,92,0,Clifford,118,Sonolenta
+907,61,Feminino,9,Apneia do sono,181,2,Phyllis,78,Levemente irritado
+908,37,Masculino,7,Sonolência diurna,108,0,Richard,91,Animado
+909,65,Feminino,5,Apneia do sono,45,4,Taylor,74,Sonolenta
+910,39,Feminino,10,Dificuldade em adormecer,144,5,Cynthia,111,De bom humor
+911,64,Feminino,6,Insônia crônica,143,1,Melanie,55,Feliz
+912,45,Masculino,6,Insônia crônica,112,5,Nicole,68,Animado
+913,51,Feminino,8,Insônia ocasional,117,2,Jose,83,Indiferente
+914,47,Feminino,6,Sonambulismo,107,1,Matthew,92,Feliz
+915,24,Feminino,5,Sem Problema,7,3,Joy,90,Feliz
+916,23,Masculino,6,Sonolência diurna,30,4,Ashley,99,Cansado
+917,70,Masculino,4,Sonolência diurna,1,4,Amanda,75,Animado
+918,60,Masculino,5,Sem Problema,146,2,Wendy,90,Cansado
+919,50,Feminino,10,Dificuldade em adormecer,54,4,Joanna,100,Feliz
+920,56,Masculino,9,Sem Problema,190,5,Jennifer,105,De bom humor
+921,58,Masculino,7,Sem Problema,113,5,Pamela,90,Levemente irritado
+922,35,Masculino,5,Apneia do sono,75,3,Michael,58,Feliz
+923,44,Masculino,10,Insônia crônica,80,4,James,109,Animado
+924,50,Masculino,9,Sem Problema,132,2,Amy,74,Sonolenta
+925,55,Feminino,10,Apneia do sono,83,0,Matthew,107,Aborrecido
+926,30,Masculino,4,Insônia crônica,26,3,Shane,97,Animado
+927,21,Masculino,5,Apneia do sono,123,0,Sarah,116,Sonolenta
+928,20,Masculino,10,Sonolência diurna,43,0,Daniel,103,Levemente irritado
+929,52,Masculino,6,Insônia crônica,16,5,Teresa,55,Sonolenta
+930,34,Masculino,9,Sem Problema,189,0,Becky,101,De bom humor
+931,30,Masculino,10,Insônia crônica,183,2,Erica,110,Sonolenta
+932,27,Feminino,9,Sonambulismo,37,4,Nancy,84,Indiferente
+933,47,Masculino,4,Insônia crônica,143,2,Kimberly,56,Indiferente
+934,43,Feminino,8,Insônia ocasional,39,0,Denise,109,Animado
+935,45,Feminino,5,Dificuldade em manter o sono,72,3,Joshua,63,De bom humor
+936,70,Masculino,10,Insônia ocasional,63,4,Keith,112,Animado
+937,54,Feminino,9,Sem Problema,34,5,Jacob,83,Feliz
+938,28,Masculino,9,Dificuldade em adormecer,137,3,Guy,80,Aborrecido
+939,47,Masculino,5,Sonolência diurna,83,3,Patricia,77,Cansado
+940,37,Masculino,9,Insônia ocasional,132,3,Michael,105,Cansado
+941,40,Masculino,10,Sem Problema,104,1,Teresa,58,Levemente irritado
+942,48,Masculino,4,Dificuldade em adormecer,168,3,Christopher,77,Aborrecido
+943,58,Feminino,9,Apneia do sono,149,5,George,67,Animado
+944,28,Masculino,6,Dificuldade em adormecer,60,0,Patricia,56,De bom humor
+945,70,Masculino,6,Sem Problema,121,1,Brandi,71,Cansado
+946,67,Masculino,9,Apneia do sono,28,2,Elizabeth,106,Feliz
+947,58,Feminino,8,Apneia do sono,16,3,Stephanie,73,Cansado
+948,26,Feminino,9,Insônia crônica,34,3,Alejandro,88,Feliz
+949,32,Masculino,7,Dificuldade em adormecer,53,0,Kimberly,84,Sonolenta
+950,70,Feminino,9,Insônia ocasional,5,1,James,101,Indiferente
+951,32,Feminino,9,Sonambulismo,53,5,Marie,80,Cansado
+952,21,Masculino,8,Insônia ocasional,156,5,Justin,62,Animado
+953,38,Masculino,8,Sonolência diurna,10,3,Allison,99,Animado
+954,65,Masculino,8,Dificuldade em adormecer,24,0,Cynthia,60,Indiferente
+955,34,Feminino,10,Dificuldade em adormecer,26,1,Peter,94,Animado
+956,62,Feminino,5,Sonolência diurna,122,0,Ashley,62,Feliz
+957,65,Masculino,9,Sem Problema,152,1,Frank,83,Aborrecido
+958,57,Feminino,5,Insônia ocasional,157,5,Angela,102,Animado
+959,20,Masculino,4,Sonolência diurna,125,0,Melissa,83,Animado
+960,26,Masculino,4,Insônia ocasional,16,4,Kyle,69,Levemente irritado
+961,57,Masculino,4,Sem Problema,147,0,Tara,80,Levemente irritado
+962,47,Feminino,9,Sem Problema,6,0,Breanna,64,Animado
+963,23,Masculino,4,Insônia crônica,127,5,Brandy,68,De bom humor
+964,65,Masculino,9,Dificuldade em adormecer,198,0,Erica,115,De bom humor
+965,21,Masculino,5,Apneia do sono,1,5,Sharon,78,Levemente irritado
+966,47,Masculino,10,Sem Problema,26,1,Kevin,66,Feliz
+967,48,Masculino,7,Sem Problema,82,3,Rhonda,70,Feliz
+968,26,Feminino,7,Insônia ocasional,164,0,Elizabeth,68,Cansado
+969,64,Masculino,6,Apneia do sono,195,3,Paul,78,Levemente irritado
+970,61,Feminino,8,Insônia ocasional,148,4,Wayne,69,Animado
+971,47,Masculino,6,Dificuldade em manter o sono,163,1,Gary,78,Sonolenta
+972,43,Masculino,5,Insônia crônica,83,0,Stephanie,78,Sonolenta
+973,70,Feminino,7,Sem Problema,67,2,Carolyn,82,Indiferente
+974,18,Masculino,4,Sonambulismo,180,4,Maxwell,88,Feliz
+975,48,Feminino,10,Dificuldade em manter o sono,135,4,Carol,67,De bom humor
+976,36,Masculino,7,Sonolência diurna,42,4,Mary,93,Sonolenta
+977,48,Masculino,5,Sonambulismo,70,4,Amy,95,Feliz
+978,32,Masculino,9,Apneia do sono,150,5,Cynthia,93,Sonolenta
+979,51,Feminino,9,Insônia crônica,153,2,Allen,118,Aborrecido
+980,24,Feminino,10,Sonolência diurna,85,4,Tami,84,Indiferente
+981,26,Masculino,6,Insônia crônica,36,5,Marcus,104,De bom humor
+982,32,Feminino,10,Apneia do sono,145,2,Angela,80,Levemente irritado
+983,42,Feminino,8,Dificuldade em adormecer,175,5,Jeremy,90,Sonolenta
+984,51,Feminino,7,Sonambulismo,191,4,Tiffany,120,Aborrecido
+985,68,Masculino,6,Sonolência diurna,164,2,Lisa,78,Sonolenta
+986,64,Feminino,9,Dificuldade em adormecer,168,2,Michael,80,Aborrecido
+987,34,Feminino,8,Sem Problema,145,1,Dean,70,Sonolenta
+988,51,Masculino,5,Sonambulismo,130,1,Alexis,77,Indiferente
+989,24,Feminino,8,Dificuldade em adormecer,104,4,Brooke,65,Levemente irritado
+990,51,Feminino,4,Insônia crônica,37,2,Lori,80,Sonolenta
+991,47,Masculino,9,Dificuldade em manter o sono,21,5,Curtis,73,Cansado
+992,57,Masculino,7,Apneia do sono,78,2,Alejandro,60,Sonolenta
+993,54,Feminino,4,Sonambulismo,129,3,Rachael,76,Feliz
+994,45,Masculino,5,Apneia do sono,6,2,Kristina,69,Animado
+995,58,Feminino,4,Sonambulismo,131,2,Tyler,72,Feliz
+996,66,Masculino,5,Sonambulismo,152,1,Seth,114,Indiferente
+997,61,Masculino,9,Sonolência diurna,132,1,Timothy,87,Aborrecido
+998,27,Masculino,7,Sonolência diurna,112,1,Marie,85,Animado
+999,58,Feminino,9,Sonambulismo,197,2,Christopher,77,Cansado
+1000,52,Masculino,7,Insônia ocasional,50,4,Brenda,62,Feliz
+1001,27,Masculino,5,Sonolência diurna,99,5,Christopher,105,Animado
+1002,59,Feminino,10,Dificuldade em manter o sono,63,1,Maureen,115,Indiferente
+1003,23,Feminino,7,Sem Problema,75,0,Mallory,106,Indiferente
+1004,54,Masculino,6,Dificuldade em manter o sono,96,0,Amber,75,Cansado
+1005,67,Masculino,7,Insônia crônica,134,4,Kevin,117,Sonolenta
+1006,41,Masculino,7,Sonambulismo,142,1,Sheila,120,De bom humor
+1007,37,Feminino,8,Sonambulismo,136,0,Patrick,89,Animado
+1008,66,Masculino,5,Dificuldade em adormecer,122,5,Autumn,62,Aborrecido
+1009,65,Masculino,6,Insônia crônica,18,5,Joel,114,Cansado
+1010,34,Masculino,8,Sonambulismo,71,3,David,72,Cansado
+1011,45,Feminino,9,Insônia ocasional,128,2,Misty,55,Feliz
+1012,60,Feminino,9,Dificuldade em adormecer,199,4,Jordan,96,Aborrecido
+1013,38,Feminino,4,Dificuldade em adormecer,29,5,William,115,Cansado
+1014,66,Masculino,4,Dificuldade em manter o sono,136,2,Gregory,107,Levemente irritado
+1015,41,Masculino,5,Sonambulismo,35,1,Robert,118,Levemente irritado
+1016,19,Feminino,6,Insônia crônica,152,1,Robert,93,Cansado
+1017,70,Feminino,10,Apneia do sono,173,2,Felicia,93,Animado
+1018,32,Feminino,6,Insônia crônica,5,1,Jeremy,87,Aborrecido
+1019,69,Feminino,4,Insônia ocasional,176,1,Kevin,55,Animado
+1020,60,Masculino,6,Dificuldade em adormecer,91,2,Lisa,96,Levemente irritado
+1021,58,Feminino,9,Sonambulismo,57,2,James,55,Animado
+1022,67,Masculino,7,Dificuldade em manter o sono,128,1,Erika,79,Sonolenta
+1023,57,Feminino,10,Apneia do sono,194,1,Alyssa,84,De bom humor
+1024,33,Masculino,10,Insônia ocasional,164,5,Jeremiah,103,Animado
+1025,28,Feminino,9,Sonolência diurna,166,3,Michael,62,Animado
+1026,53,Feminino,8,Apneia do sono,195,1,Taylor,97,Aborrecido
+1027,46,Masculino,6,Insônia crônica,101,0,Lori,72,Aborrecido
+1028,38,Masculino,10,Sem Problema,66,5,Donald,63,Aborrecido
+1029,63,Masculino,6,Dificuldade em manter o sono,160,2,Jessica,76,Levemente irritado
+1030,29,Masculino,9,Dificuldade em adormecer,133,5,Christine,67,De bom humor
+1031,55,Masculino,4,Insônia crônica,126,4,Jennifer,105,Levemente irritado
+1032,52,Masculino,4,Insônia ocasional,50,3,Edward,74,Levemente irritado
+1033,32,Masculino,4,Insônia ocasional,17,5,Kathleen,99,De bom humor
+1034,18,Feminino,9,Dificuldade em adormecer,114,4,Elizabeth,114,Cansado
+1035,28,Masculino,4,Sem Problema,27,3,William,120,De bom humor
+1036,59,Masculino,5,Sonolência diurna,153,1,David,66,Indiferente
+1037,65,Masculino,5,Insônia crônica,182,5,Jill,110,Animado
+1038,34,Masculino,8,Dificuldade em adormecer,97,3,Austin,74,Cansado
+1039,58,Masculino,5,Dificuldade em adormecer,120,1,Monica,74,De bom humor
+1040,52,Masculino,5,Apneia do sono,76,3,Steven,56,Aborrecido
+1041,30,Masculino,10,Dificuldade em manter o sono,183,2,Tracey,87,Sonolenta
+1042,57,Feminino,7,Insônia crônica,31,5,Michael,88,De bom humor
+1043,63,Feminino,9,Sonambulismo,191,1,Lisa,91,Indiferente
+1044,43,Masculino,6,Sonambulismo,25,3,Andrea,108,Aborrecido
+1045,27,Masculino,5,Insônia crônica,106,2,Erica,58,Cansado
+1046,48,Feminino,10,Apneia do sono,67,1,Stephanie,59,Sonolenta
+1047,24,Masculino,7,Sonambulismo,175,4,Meghan,108,Animado
+1048,41,Feminino,10,Dificuldade em manter o sono,55,2,Taylor,115,Aborrecido
+1049,27,Masculino,10,Sonambulismo,3,3,Brad,64,Sonolenta
+1050,40,Masculino,4,Dificuldade em adormecer,169,1,Jason,101,Animado
+1051,66,Feminino,6,Insônia ocasional,9,2,Adam,59,Indiferente
+1052,62,Masculino,4,Dificuldade em manter o sono,178,4,Karen,86,Animado
+1053,38,Masculino,9,Dificuldade em adormecer,125,0,Timothy,85,Cansado
+1054,61,Masculino,5,Sem Problema,65,3,Jacob,79,Animado
+1055,60,Feminino,8,Dificuldade em adormecer,25,0,Arthur,74,Cansado
+1056,69,Feminino,7,Sonolência diurna,141,0,Jason,85,Aborrecido
+1057,59,Feminino,8,Dificuldade em adormecer,148,5,Ashley,92,Sonolenta
+1058,47,Feminino,10,Dificuldade em adormecer,0,1,Christian,107,Feliz
+1059,70,Feminino,7,Insônia crônica,92,2,John,57,Indiferente
+1060,25,Feminino,10,Apneia do sono,155,5,Ryan,114,Levemente irritado
+1061,37,Masculino,7,Insônia crônica,12,5,David,105,Feliz
+1062,43,Masculino,6,Sonambulismo,10,0,Joseph,74,Indiferente
+1063,18,Masculino,9,Insônia ocasional,36,4,Roy,105,Levemente irritado
+1064,37,Feminino,4,Apneia do sono,130,3,Jeffrey,68,Animado
+1065,54,Feminino,5,Insônia ocasional,179,1,Christopher,100,Animado
+1066,20,Masculino,7,Sonambulismo,196,4,Kristen,116,Cansado
+1067,50,Masculino,4,Sonambulismo,98,0,Kevin,76,Cansado
+1068,33,Feminino,9,Insônia crônica,123,5,Sherri,73,Sonolenta
+1069,34,Feminino,6,Insônia ocasional,179,2,Emily,98,Indiferente
+1070,26,Feminino,5,Sonolência diurna,187,1,Charles,83,Levemente irritado
+1071,26,Masculino,7,Insônia ocasional,13,3,Melissa,61,Aborrecido
+1072,31,Masculino,7,Sem Problema,44,3,Lisa,79,Sonolenta
+1073,31,Masculino,8,Dificuldade em adormecer,37,0,Christopher,97,Sonolenta
+1074,45,Masculino,6,Dificuldade em adormecer,45,5,Robert,72,Indiferente
+1075,41,Masculino,8,Sonambulismo,185,2,Samantha,105,Aborrecido
+1076,22,Masculino,10,Insônia crônica,49,5,Eric,68,Levemente irritado
+1077,66,Masculino,8,Sonambulismo,127,1,Amber,74,Animado
+1078,31,Feminino,10,Insônia ocasional,171,1,Aaron,68,Sonolenta
+1079,37,Feminino,7,Dificuldade em adormecer,56,3,Jerry,112,Animado
+1080,42,Feminino,8,Sem Problema,198,4,Lisa,58,De bom humor
+1081,24,Feminino,6,Sonolência diurna,183,3,Jennifer,56,Animado
+1082,69,Feminino,4,Sonambulismo,123,2,Jessica,73,Aborrecido
+1083,70,Masculino,6,Insônia crônica,71,1,Kenneth,67,Levemente irritado
+1084,46,Masculino,10,Sonolência diurna,58,5,Travis,93,Animado
+1085,52,Masculino,4,Insônia ocasional,117,1,Aaron,95,Indiferente
+1086,54,Masculino,7,Insônia ocasional,168,3,Marcus,67,Animado
+1087,57,Masculino,5,Dificuldade em adormecer,66,4,Matthew,101,Sonolenta
+1088,33,Feminino,10,Sonambulismo,4,0,Summer,120,Cansado
+1089,65,Feminino,5,Sonambulismo,66,1,Gail,98,Levemente irritado
+1090,29,Feminino,10,Sonolência diurna,40,2,Lindsay,109,Levemente irritado
+1091,50,Masculino,10,Insônia crônica,55,3,Ralph,90,Indiferente
+1092,43,Masculino,7,Insônia crônica,91,2,Kathryn,55,Animado
+1093,61,Feminino,7,Dificuldade em manter o sono,7,0,Rachel,112,De bom humor
+1094,59,Masculino,8,Insônia ocasional,21,1,Russell,110,Feliz
+1095,68,Feminino,9,Dificuldade em adormecer,69,3,Amanda,71,Animado
+1096,35,Masculino,7,Dificuldade em adormecer,115,0,Gary,77,Indiferente
+1097,23,Feminino,6,Apneia do sono,73,2,Andrea,119,Levemente irritado
+1098,68,Feminino,6,Sonolência diurna,95,4,Karen,75,Animado
+1099,39,Feminino,7,Sonambulismo,80,1,Eric,72,Feliz
+1100,37,Feminino,6,Dificuldade em manter o sono,52,1,Eric,119,Cansado
+1101,52,Feminino,8,Insônia ocasional,110,2,Adam,71,Sonolenta
+1102,34,Feminino,7,Sonolência diurna,58,5,Steven,105,De bom humor
+1103,47,Feminino,7,Sonolência diurna,172,0,Tiffany,55,Sonolenta
+1104,52,Feminino,8,Insônia ocasional,81,5,Sabrina,62,Feliz
+1105,40,Masculino,10,Dificuldade em adormecer,167,5,Jerry,70,Sonolenta
+1106,68,Masculino,6,Sonambulismo,32,0,Brenda,82,Cansado
+1107,65,Masculino,4,Insônia crônica,194,4,Katherine,67,Indiferente
+1108,68,Masculino,4,Insônia ocasional,176,2,Ronald,57,De bom humor
+1109,47,Feminino,9,Apneia do sono,144,0,Adam,115,Sonolenta
+1110,27,Feminino,9,Dificuldade em adormecer,84,4,Kendra,82,Feliz
+1111,33,Masculino,4,Insônia ocasional,84,4,Vanessa,80,Sonolenta
+1112,65,Masculino,9,Sem Problema,28,1,Adam,63,Animado
+1113,30,Masculino,9,Apneia do sono,41,3,William,62,Animado
+1114,39,Feminino,8,Sem Problema,179,0,Jennifer,112,Cansado
+1115,57,Masculino,5,Dificuldade em adormecer,140,1,Pamela,103,Aborrecido
+1116,44,Feminino,4,Apneia do sono,160,5,Debra,75,Levemente irritado
+1117,26,Feminino,8,Dificuldade em adormecer,145,2,Wendy,97,De bom humor
+1118,67,Masculino,5,Sonambulismo,119,5,Bradley,113,Cansado
+1119,50,Feminino,9,Sonambulismo,178,4,Heather,76,Sonolenta
+1120,52,Masculino,6,Sem Problema,40,2,Shane,113,Feliz
+1121,39,Masculino,10,Dificuldade em manter o sono,128,4,David,73,Aborrecido
+1122,57,Feminino,7,Apneia do sono,56,0,Chad,86,Levemente irritado
+1123,70,Feminino,10,Sonambulismo,122,0,Kevin,61,Sonolenta
+1124,46,Feminino,5,Insônia crônica,161,2,Adam,114,Feliz
+1125,62,Masculino,4,Dificuldade em adormecer,152,4,Crystal,86,Aborrecido
+1126,51,Feminino,6,Sonolência diurna,52,1,Dustin,103,Indiferente
+1127,50,Feminino,7,Insônia ocasional,199,5,Tiffany,71,Animado
+1128,26,Feminino,8,Insônia ocasional,76,0,Alex,61,Levemente irritado
+1129,69,Feminino,7,Insônia ocasional,137,5,Deborah,81,Indiferente
+1130,27,Feminino,10,Sonolência diurna,1,5,Christina,61,Feliz
+1131,41,Masculino,7,Sonolência diurna,21,0,Christina,112,De bom humor
+1132,25,Feminino,4,Insônia crônica,49,2,Barbara,77,Feliz
+1133,21,Masculino,10,Insônia ocasional,197,4,Barbara,82,Animado
+1134,40,Feminino,6,Sem Problema,175,1,Jeff,68,Animado
+1135,30,Masculino,9,Sonolência diurna,65,1,Heather,100,Animado
+1136,25,Masculino,5,Sonolência diurna,28,2,Joseph,60,Aborrecido
+1137,18,Masculino,4,Dificuldade em manter o sono,31,0,Catherine,101,Aborrecido
+1138,63,Masculino,8,Sonolência diurna,83,2,Ray,104,Feliz
+1139,67,Feminino,9,Sonambulismo,153,5,Richard,111,Feliz
+1140,51,Feminino,6,Sonolência diurna,32,4,Thomas,88,Feliz
+1141,45,Masculino,6,Apneia do sono,169,1,Katie,107,Animado
+1142,25,Feminino,6,Insônia ocasional,10,0,Amy,81,Indiferente
+1143,38,Masculino,4,Sonolência diurna,60,5,Roberto,107,De bom humor
+1144,37,Masculino,6,Sonolência diurna,199,1,Darrell,90,Animado
+1145,43,Masculino,6,Apneia do sono,34,0,Melissa,113,Feliz
+1146,58,Feminino,4,Sonambulismo,50,5,Amanda,64,Levemente irritado
+1147,32,Masculino,10,Dificuldade em manter o sono,71,3,Andrea,57,Sonolenta
+1148,66,Feminino,7,Dificuldade em adormecer,57,2,Joseph,88,Cansado
+1149,50,Masculino,8,Dificuldade em manter o sono,163,4,Mark,113,Sonolenta
+1150,67,Feminino,9,Dificuldade em adormecer,16,1,Whitney,69,Cansado
+1151,30,Feminino,4,Insônia crônica,59,2,Jonathan,98,Animado
+1152,38,Feminino,5,Apneia do sono,199,2,Justin,72,Aborrecido
+1153,69,Masculino,10,Insônia crônica,92,5,John,119,De bom humor
+1154,69,Feminino,7,Dificuldade em manter o sono,42,4,Sean,92,Cansado
+1155,19,Feminino,6,Dificuldade em manter o sono,123,3,Eugene,60,Animado
+1156,70,Feminino,5,Insônia crônica,17,4,Andrew,74,Sonolenta
+1157,40,Feminino,7,Insônia crônica,62,0,Marie,57,Indiferente
+1158,19,Masculino,5,Insônia crônica,144,5,Tara,108,Levemente irritado
+1159,26,Feminino,7,Dificuldade em manter o sono,17,0,Eric,95,Sonolenta
+1160,35,Feminino,7,Dificuldade em manter o sono,69,0,Erin,84,Sonolenta
+1161,38,Masculino,4,Dificuldade em adormecer,185,2,Phillip,104,Aborrecido
+1162,59,Feminino,5,Insônia ocasional,158,5,Matthew,85,Cansado
+1163,24,Masculino,7,Sonambulismo,19,2,Nicholas,86,Levemente irritado
+1164,66,Feminino,8,Sem Problema,161,5,Jose,55,Aborrecido
+1165,32,Feminino,5,Sonolência diurna,99,0,Judith,100,Animado
+1166,18,Feminino,7,Sonambulismo,47,0,Janet,105,Aborrecido
+1167,46,Feminino,5,Apneia do sono,93,5,Laura,97,Feliz
+1168,38,Feminino,7,Apneia do sono,154,3,Lacey,57,Aborrecido
+1169,56,Feminino,10,Sonolência diurna,36,1,Ronald,69,Aborrecido
+1170,31,Feminino,10,Sonambulismo,73,2,Debra,112,Aborrecido
+1171,23,Feminino,8,Sem Problema,84,5,Mark,79,Cansado
+1172,24,Feminino,5,Apneia do sono,80,4,Michael,61,Sonolenta
+1173,19,Feminino,8,Dificuldade em adormecer,167,1,Christopher,95,Indiferente
+1174,56,Feminino,7,Insônia ocasional,67,0,James,90,Animado
+1175,47,Masculino,5,Dificuldade em adormecer,23,3,Anthony,99,Aborrecido
+1176,69,Masculino,9,Insônia ocasional,65,2,Vanessa,77,Sonolenta
+1177,33,Feminino,5,Sonambulismo,109,0,Andrea,92,Sonolenta
+1178,61,Masculino,8,Dificuldade em adormecer,147,1,Allison,118,Feliz
+1179,18,Feminino,6,Insônia crônica,34,5,Amber,113,Aborrecido
+1180,51,Masculino,10,Sem Problema,199,4,Timothy,92,Sonolenta
+1181,45,Feminino,10,Sem Problema,173,5,Laura,74,Levemente irritado
+1182,48,Feminino,10,Sem Problema,159,0,Megan,111,Aborrecido
+1183,27,Feminino,5,Sonambulismo,53,5,Michael,85,De bom humor
+1184,57,Masculino,4,Apneia do sono,72,1,Michael,78,Cansado
+1185,56,Masculino,8,Apneia do sono,143,5,Carlos,72,Feliz
+1186,47,Masculino,8,Sonambulismo,37,2,Virginia,81,Animado
+1187,40,Masculino,4,Apneia do sono,72,0,Jessica,88,Cansado
+1188,51,Masculino,7,Sonambulismo,62,2,Joe,94,Sonolenta
+1189,36,Masculino,9,Apneia do sono,43,2,Jennifer,98,Aborrecido
+1190,25,Masculino,8,Insônia ocasional,143,3,Erin,103,Animado
+1191,44,Feminino,9,Dificuldade em adormecer,166,3,Allison,62,Cansado
+1192,47,Feminino,7,Sonambulismo,39,3,Alison,118,Levemente irritado
+1193,37,Masculino,8,Apneia do sono,35,3,Alexandra,101,Sonolenta
+1194,50,Feminino,4,Sonambulismo,113,0,Jesse,113,Sonolenta
+1195,54,Masculino,9,Dificuldade em manter o sono,23,0,Kimberly,59,Feliz
+1196,48,Feminino,5,Sem Problema,114,0,Emily,90,Feliz
+1197,61,Masculino,7,Insônia ocasional,85,5,Kayla,108,Indiferente
+1198,25,Masculino,9,Sem Problema,138,0,John,119,Sonolenta
+1199,63,Masculino,7,Insônia ocasional,68,4,Robin,82,Sonolenta
+1200,23,Masculino,9,Dificuldade em adormecer,76,5,Erin,67,Aborrecido
+1201,69,Feminino,4,Apneia do sono,106,3,Paul,94,Aborrecido
+1202,60,Masculino,8,Apneia do sono,157,1,Sara,94,Sonolenta
+1203,29,Masculino,8,Insônia ocasional,102,4,Anthony,87,Animado
+1204,64,Feminino,4,Sonolência diurna,88,4,Chelsea,97,Animado
+1205,48,Masculino,8,Apneia do sono,157,1,Eric,100,Feliz
+1206,39,Masculino,4,Sem Problema,51,4,Brianna,75,Indiferente
+1207,25,Masculino,4,Sonolência diurna,198,4,Larry,118,Cansado
+1208,58,Masculino,6,Sonolência diurna,103,3,Anthony,89,Animado
+1209,54,Feminino,10,Apneia do sono,123,5,Michael,117,Sonolenta
+1210,63,Masculino,8,Sonolência diurna,90,4,Steven,113,Feliz
+1211,26,Feminino,5,Apneia do sono,105,2,Travis,63,Levemente irritado
+1212,60,Feminino,7,Insônia crônica,112,1,Manuel,90,Levemente irritado
+1213,33,Feminino,9,Sonolência diurna,52,3,Joshua,58,Animado
+1214,32,Feminino,7,Insônia ocasional,107,0,Hannah,66,Cansado
+1215,20,Masculino,7,Dificuldade em manter o sono,187,0,Shelly,63,Indiferente
+1216,45,Feminino,8,Sem Problema,199,1,Lindsey,84,De bom humor
+1217,70,Masculino,9,Insônia ocasional,161,5,David,63,Feliz
+1218,60,Masculino,9,Sem Problema,88,2,Connor,84,Indiferente
+1219,21,Masculino,9,Sonambulismo,27,5,Mark,114,Feliz
+1220,27,Feminino,6,Sem Problema,6,1,Dawn,93,Animado
+1221,50,Feminino,6,Dificuldade em manter o sono,33,1,John,104,Aborrecido
+1222,50,Masculino,10,Insônia crônica,151,1,John,97,Sonolenta
+1223,23,Feminino,6,Dificuldade em adormecer,53,4,Heather,107,Levemente irritado
+1224,52,Masculino,10,Sem Problema,159,2,Jeffery,79,Feliz
+1225,20,Masculino,5,Sem Problema,18,2,Anthony,91,Levemente irritado
+1226,34,Feminino,5,Dificuldade em manter o sono,53,5,Kayla,61,Cansado
+1227,28,Masculino,9,Insônia crônica,133,2,Diana,57,Animado
+1228,56,Feminino,6,Dificuldade em adormecer,66,2,Karina,55,Sonolenta
+1229,47,Feminino,5,Dificuldade em adormecer,8,4,Catherine,82,Feliz
+1230,45,Masculino,4,Dificuldade em adormecer,174,1,Alyssa,113,Feliz
+1231,29,Masculino,10,Sonambulismo,132,4,Roger,59,Levemente irritado
+1232,42,Feminino,9,Sonambulismo,74,2,Adam,84,Aborrecido
+1233,48,Feminino,5,Dificuldade em adormecer,100,2,Dwayne,60,Aborrecido
+1234,59,Masculino,10,Sem Problema,109,4,Ricky,82,Sonolenta
+1235,70,Feminino,9,Apneia do sono,33,2,Derek,57,Sonolenta
+1236,22,Feminino,4,Insônia crônica,185,2,Melissa,90,Feliz
+1237,63,Masculino,4,Insônia crônica,78,4,Maria,89,Levemente irritado
+1238,31,Masculino,7,Sonolência diurna,165,0,Danielle,61,Indiferente
+1239,39,Masculino,5,Apneia do sono,91,4,Erik,80,Cansado
+1240,53,Feminino,7,Sem Problema,68,0,Michael,65,Indiferente
+1241,63,Feminino,8,Sonolência diurna,11,2,Monica,75,Indiferente
+1242,60,Masculino,6,Insônia crônica,8,0,Edward,114,Aborrecido
+1243,32,Feminino,10,Insônia crônica,63,1,Casey,77,Cansado
+1244,60,Feminino,5,Insônia crônica,121,2,Troy,111,Aborrecido
+1245,24,Masculino,6,Sonambulismo,28,2,Amy,80,Aborrecido
+1246,35,Masculino,5,Apneia do sono,146,3,Deborah,91,Animado
+1247,38,Masculino,5,Sem Problema,72,1,Joe,115,Levemente irritado
+1248,40,Feminino,4,Apneia do sono,1,4,Erin,87,Levemente irritado
+1249,40,Feminino,4,Dificuldade em manter o sono,166,1,Victor,63,Cansado
+1250,41,Feminino,6,Sonambulismo,136,3,Matthew,86,Aborrecido
+1251,35,Masculino,7,Insônia crônica,192,4,Ryan,84,Indiferente
+1252,38,Masculino,4,Dificuldade em manter o sono,33,4,Paul,94,Sonolenta
+1253,46,Masculino,5,Sem Problema,169,3,Isabella,70,Cansado
+1254,42,Masculino,5,Sem Problema,128,0,Kirsten,58,Sonolenta
+1255,18,Masculino,10,Insônia ocasional,186,1,Sarah,119,Feliz
+1256,41,Masculino,8,Dificuldade em manter o sono,28,2,Faith,109,De bom humor
+1257,31,Masculino,8,Apneia do sono,49,0,Charles,78,Aborrecido
+1258,68,Feminino,9,Apneia do sono,187,3,Derek,64,Feliz
+1259,58,Masculino,10,Dificuldade em adormecer,93,5,Anne,110,Sonolenta
+1260,49,Masculino,9,Dificuldade em adormecer,113,5,Kelly,83,Indiferente
+1261,42,Feminino,10,Insônia crônica,43,2,Mary,120,Indiferente
+1262,44,Masculino,5,Dificuldade em manter o sono,7,5,Jennifer,113,Feliz
+1263,19,Feminino,8,Dificuldade em manter o sono,190,5,Jessica,111,Levemente irritado
+1264,39,Feminino,10,Sonolência diurna,198,2,David,56,De bom humor
+1265,50,Masculino,6,Insônia crônica,23,5,Brian,115,Levemente irritado
+1266,69,Masculino,5,Insônia ocasional,49,5,Corey,87,De bom humor
+1267,63,Masculino,7,Apneia do sono,161,1,Latoya,80,Cansado
+1268,68,Masculino,10,Sonolência diurna,188,1,Nathan,58,Indiferente
+1269,57,Masculino,10,Dificuldade em adormecer,86,3,Stefanie,102,Indiferente
+1270,68,Masculino,9,Apneia do sono,56,4,Joshua,118,Indiferente
+1271,47,Masculino,7,Sem Problema,54,2,Jason,100,Levemente irritado
+1272,24,Masculino,9,Insônia crônica,109,2,Kimberly,93,Cansado
+1273,44,Masculino,7,Apneia do sono,126,5,Michael,80,Aborrecido
+1274,40,Feminino,4,Sonambulismo,84,1,Erin,88,Aborrecido
+1275,45,Masculino,7,Sonolência diurna,74,2,Jason,75,Feliz
+1276,58,Masculino,8,Dificuldade em manter o sono,108,3,Pamela,90,Aborrecido
+1277,26,Masculino,6,Insônia crônica,21,0,Jessica,56,Animado
+1278,22,Feminino,6,Dificuldade em adormecer,195,1,Claudia,75,Levemente irritado
+1279,32,Masculino,10,Sem Problema,132,4,Ashley,57,De bom humor
+1280,56,Masculino,4,Dificuldade em manter o sono,163,4,Cynthia,72,De bom humor
+1281,28,Masculino,10,Apneia do sono,188,1,Brittany,108,Indiferente
+1282,26,Feminino,5,Insônia crônica,33,2,Anna,115,Levemente irritado
+1283,33,Masculino,7,Apneia do sono,28,5,Amy,62,De bom humor
+1284,59,Feminino,7,Dificuldade em adormecer,73,1,Kimberly,97,Animado
+1285,27,Feminino,6,Apneia do sono,92,0,Shane,67,Aborrecido
+1286,49,Feminino,4,Apneia do sono,122,1,Kathleen,109,Indiferente
+1287,30,Feminino,10,Dificuldade em adormecer,71,4,Terri,120,De bom humor
+1288,47,Feminino,8,Dificuldade em manter o sono,131,2,Mark,56,Levemente irritado
+1289,41,Masculino,4,Insônia crônica,137,3,Ryan,79,Sonolenta
+1290,20,Feminino,5,Insônia ocasional,59,1,Hannah,111,Indiferente
+1291,52,Masculino,8,Dificuldade em adormecer,139,2,Jesus,75,Feliz
+1292,61,Masculino,5,Apneia do sono,124,2,Brian,76,Animado
+1293,60,Feminino,7,Sonolência diurna,169,1,Sharon,93,De bom humor
+1294,21,Masculino,4,Insônia ocasional,100,1,Dawn,100,Levemente irritado
+1295,69,Masculino,9,Insônia crônica,0,1,Lauren,61,Animado
+1296,33,Masculino,8,Dificuldade em adormecer,58,0,Kevin,103,De bom humor
+1297,64,Feminino,9,Sonolência diurna,133,2,Laurie,58,Animado
+1298,34,Feminino,9,Dificuldade em adormecer,8,1,Nicole,119,Levemente irritado
+1299,30,Masculino,4,Sonolência diurna,133,0,Danielle,101,Levemente irritado
+1300,53,Feminino,10,Insônia ocasional,50,3,Hayley,55,Feliz
+1301,64,Feminino,10,Insônia crônica,192,3,Sheila,116,Feliz
+1302,50,Feminino,10,Apneia do sono,156,2,Julie,82,Animado
+1303,38,Feminino,8,Sonolência diurna,169,5,Michelle,116,Sonolenta
+1304,48,Masculino,6,Sonambulismo,167,2,Patricia,68,De bom humor
+1305,64,Masculino,8,Sem Problema,75,5,Bryan,65,Animado
+1306,21,Feminino,6,Sonambulismo,123,0,Brenda,73,Feliz
+1307,59,Masculino,10,Dificuldade em manter o sono,13,2,Connor,103,Aborrecido
+1308,60,Masculino,4,Sonolência diurna,66,4,Beth,83,Aborrecido
+1309,48,Masculino,4,Sem Problema,3,4,Steven,114,Levemente irritado
+1310,62,Masculino,8,Sonambulismo,114,3,Theresa,68,Aborrecido
+1311,21,Masculino,5,Insônia ocasional,196,2,Andrew,105,Cansado
+1312,62,Masculino,5,Insônia crônica,15,0,Courtney,118,Animado
+1313,34,Masculino,6,Apneia do sono,34,0,Russell,60,Levemente irritado
+1314,58,Feminino,8,Sonolência diurna,170,3,Thomas,69,Aborrecido
+1315,49,Feminino,9,Dificuldade em manter o sono,198,1,Jeff,70,Animado
+1316,65,Masculino,9,Insônia crônica,129,2,Robert,75,Indiferente
+1317,54,Masculino,5,Insônia crônica,99,5,Kayla,86,Animado
+1318,63,Feminino,4,Sem Problema,175,4,Erika,84,Aborrecido
+1319,43,Masculino,5,Sonolência diurna,167,1,Brianna,120,Indiferente
+1320,66,Feminino,7,Insônia ocasional,57,5,Shannon,58,Indiferente
+1321,68,Feminino,7,Sonambulismo,21,4,Alec,79,Feliz
+1322,68,Masculino,8,Dificuldade em manter o sono,127,0,Kimberly,73,Animado
+1323,44,Feminino,7,Dificuldade em manter o sono,163,0,Cynthia,104,Aborrecido
+1324,50,Masculino,10,Insônia ocasional,157,0,Amy,116,Sonolenta
+1325,36,Feminino,5,Sem Problema,184,0,Kiara,98,Aborrecido
+1326,45,Feminino,10,Insônia crônica,95,1,Paul,92,Aborrecido
+1327,60,Masculino,7,Sem Problema,164,5,Holly,99,Animado
+1328,63,Feminino,4,Dificuldade em adormecer,195,0,Rachel,78,De bom humor
+1329,65,Masculino,10,Sem Problema,96,1,Melissa,101,Feliz
+1330,35,Masculino,6,Sem Problema,120,1,Elizabeth,60,Animado
+1331,63,Masculino,7,Insônia crônica,147,4,David,88,Sonolenta
+1332,63,Feminino,10,Apneia do sono,22,3,Daniel,93,Indiferente
+1333,48,Masculino,5,Insônia ocasional,139,2,Stacey,66,Sonolenta
+1334,49,Feminino,10,Dificuldade em manter o sono,183,5,Sean,111,Cansado
+1335,55,Masculino,8,Insônia crônica,72,0,Mackenzie,62,Feliz
+1336,49,Feminino,4,Sonolência diurna,26,2,Phillip,65,Cansado
+1337,55,Masculino,7,Sem Problema,131,2,Cheryl,114,Sonolenta
+1338,22,Feminino,7,Sem Problema,135,3,Linda,69,Feliz
+1339,40,Feminino,7,Insônia crônica,140,2,Jacqueline,101,Cansado
+1340,54,Feminino,10,Dificuldade em manter o sono,95,5,Nicholas,112,De bom humor
+1341,30,Feminino,4,Dificuldade em adormecer,178,4,Pamela,63,Levemente irritado
+1342,20,Masculino,8,Insônia crônica,85,5,Christopher,70,Indiferente
+1343,19,Masculino,7,Dificuldade em manter o sono,136,1,Dawn,74,Levemente irritado
+1344,54,Masculino,4,Sonambulismo,25,0,Edward,81,Indiferente
+1345,32,Feminino,5,Dificuldade em adormecer,170,4,Todd,81,Cansado
+1346,26,Masculino,5,Insônia ocasional,56,5,Tracey,120,De bom humor
+1347,29,Masculino,8,Dificuldade em adormecer,132,1,Ashley,101,De bom humor
+1348,45,Feminino,8,Dificuldade em manter o sono,157,3,Brent,99,De bom humor
+1349,22,Masculino,5,Insônia crônica,54,0,Frank,66,Indiferente
+1350,28,Feminino,9,Dificuldade em adormecer,16,1,Ronald,63,Sonolenta
+1351,56,Masculino,9,Sonambulismo,18,4,Tiffany,104,Sonolenta
+1352,20,Masculino,6,Dificuldade em manter o sono,197,1,Samuel,118,Cansado
+1353,37,Masculino,7,Insônia crônica,128,1,Kevin,118,Feliz
+1354,48,Feminino,9,Insônia ocasional,18,2,Joseph,113,Cansado
+1355,66,Masculino,10,Insônia ocasional,4,0,Larry,80,Levemente irritado
+1356,42,Masculino,8,Sonolência diurna,33,4,Erin,77,Indiferente
+1357,25,Feminino,6,Insônia crônica,37,5,Thomas,109,Animado
+1358,34,Feminino,6,Sonolência diurna,152,2,Monique,81,Animado
+1359,40,Feminino,5,Sonolência diurna,90,5,Michael,115,De bom humor
+1360,58,Feminino,7,Sonambulismo,2,2,Ashlee,114,Cansado
+1361,58,Feminino,6,Sem Problema,23,3,Sarah,72,Cansado
+1362,36,Masculino,4,Sonolência diurna,183,5,James,69,Aborrecido
+1363,53,Masculino,5,Insônia crônica,76,3,Grant,82,Feliz
+1364,41,Feminino,7,Dificuldade em manter o sono,114,3,Robert,64,Aborrecido
+1365,56,Feminino,5,Insônia crônica,39,5,Craig,57,Indiferente
+1366,22,Feminino,9,Sonambulismo,165,5,Sherry,65,Levemente irritado
+1367,26,Masculino,5,Insônia crônica,44,0,Kelly,91,Sonolenta
+1368,43,Feminino,9,Sonolência diurna,106,1,Judy,65,Feliz
+1369,53,Masculino,9,Sem Problema,196,1,Savannah,92,Feliz
+1370,64,Feminino,10,Sonolência diurna,115,4,Ronald,90,Feliz
+1371,66,Feminino,5,Sonolência diurna,31,5,Jeffery,64,Feliz
+1372,37,Masculino,5,Sonambulismo,157,1,Cory,113,De bom humor
+1373,54,Masculino,10,Insônia ocasional,198,2,Robert,111,Cansado
+1374,52,Feminino,5,Sonolência diurna,159,1,Jessica,65,Indiferente
+1375,38,Feminino,5,Sonambulismo,162,5,Tiffany,99,Feliz
+1376,67,Masculino,5,Insônia ocasional,20,4,Chelsea,71,Feliz
+1377,28,Masculino,5,Dificuldade em manter o sono,82,2,Jo,61,Feliz
+1378,28,Feminino,10,Dificuldade em adormecer,31,2,Dean,86,De bom humor
+1379,22,Masculino,5,Sonolência diurna,39,4,Faith,73,Indiferente
+1380,47,Feminino,7,Sem Problema,32,0,David,64,Levemente irritado
+1381,23,Masculino,9,Sonambulismo,122,1,Austin,60,Indiferente
+1382,21,Masculino,5,Insônia crônica,62,5,Noah,82,De bom humor
+1383,51,Masculino,5,Insônia ocasional,189,2,Larry,56,Sonolenta
+1384,57,Feminino,6,Insônia crônica,93,0,Andrew,116,Animado
+1385,57,Masculino,6,Sem Problema,136,5,Robert,89,Aborrecido
+1386,43,Masculino,6,Sonolência diurna,54,0,Joseph,117,Animado
+1387,30,Feminino,7,Dificuldade em manter o sono,131,3,Richard,104,Feliz
+1388,45,Masculino,10,Insônia crônica,91,0,David,93,De bom humor
+1389,37,Masculino,10,Insônia crônica,180,1,Monica,119,Animado
+1390,36,Feminino,5,Insônia crônica,72,3,Stephanie,61,Animado
+1391,48,Feminino,7,Sem Problema,59,4,Cory,104,Indiferente
+1392,23,Feminino,8,Sem Problema,171,2,Eric,74,Indiferente
+1393,66,Feminino,8,Sonambulismo,135,4,Keith,108,Sonolenta
+1394,38,Feminino,7,Insônia ocasional,162,0,Mackenzie,82,De bom humor
+1395,37,Feminino,6,Dificuldade em manter o sono,145,4,Jonathan,101,De bom humor
+1396,52,Feminino,4,Sem Problema,28,0,Vincent,81,De bom humor
+1397,26,Feminino,10,Sonolência diurna,50,4,Jacob,74,De bom humor
+1398,68,Feminino,7,Dificuldade em adormecer,85,5,Jose,119,De bom humor
+1399,32,Masculino,5,Insônia ocasional,92,1,Stephanie,74,Indiferente
+1400,42,Feminino,6,Insônia ocasional,190,5,Sarah,80,De bom humor
+1401,64,Feminino,5,Insônia ocasional,17,1,David,110,Aborrecido
+1402,47,Feminino,8,Dificuldade em manter o sono,85,4,Brian,115,Sonolenta
+1403,62,Feminino,6,Insônia crônica,140,1,Cole,109,De bom humor
+1404,27,Feminino,9,Insônia crônica,92,2,Laura,68,Indiferente
+1405,36,Masculino,9,Apneia do sono,102,5,Jessica,58,Feliz
+1406,56,Masculino,4,Sonambulismo,171,0,Brandon,104,Aborrecido
+1407,28,Masculino,4,Dificuldade em manter o sono,186,2,Ryan,115,Sonolenta
+1408,43,Masculino,4,Insônia ocasional,86,5,Nicholas,120,Animado
+1409,68,Masculino,7,Dificuldade em adormecer,131,3,Cody,102,Indiferente
+1410,70,Feminino,10,Sonolência diurna,154,5,Justin,70,Sonolenta
+1411,51,Feminino,4,Insônia ocasional,171,3,Michael,65,Levemente irritado
+1412,30,Feminino,9,Insônia crônica,117,5,Aaron,100,Aborrecido
+1413,54,Feminino,6,Sem Problema,22,4,John,55,Feliz
+1414,41,Masculino,8,Apneia do sono,141,2,John,110,Aborrecido
+1415,20,Masculino,7,Insônia crônica,158,1,Laura,75,Animado
+1416,46,Feminino,4,Sonolência diurna,148,3,Jennifer,63,Levemente irritado
+1417,28,Masculino,7,Insônia crônica,195,1,Jennifer,55,Indiferente
+1418,26,Feminino,10,Insônia ocasional,199,0,John,86,Feliz
+1419,59,Masculino,4,Sem Problema,11,2,Melinda,110,Sonolenta
+1420,54,Masculino,10,Insônia crônica,170,3,Jill,116,Sonolenta
+1421,28,Feminino,7,Insônia crônica,137,3,Brittany,92,Feliz
+1422,30,Masculino,9,Sonambulismo,74,3,Shannon,82,Levemente irritado
+1423,41,Masculino,4,Dificuldade em adormecer,192,1,Cindy,120,Feliz
+1424,69,Feminino,5,Apneia do sono,188,3,Alicia,73,De bom humor
+1425,49,Masculino,5,Sonolência diurna,14,5,Rachel,58,Feliz
+1426,63,Masculino,9,Insônia crônica,26,3,Ruth,93,Animado
+1427,61,Masculino,8,Sonolência diurna,42,2,Diana,77,De bom humor
+1428,60,Masculino,5,Sonambulismo,152,4,Melissa,79,Animado
+1429,34,Masculino,10,Sonolência diurna,89,2,Lisa,104,Feliz
+1430,50,Feminino,5,Insônia crônica,6,4,Scott,112,Aborrecido
+1431,60,Masculino,8,Insônia crônica,1,5,Ashley,115,Animado
+1432,36,Masculino,6,Apneia do sono,23,4,Angela,66,Sonolenta
+1433,65,Masculino,5,Insônia ocasional,178,5,Chris,108,Indiferente
+1434,56,Masculino,8,Insônia crônica,124,1,Jessica,95,Indiferente
+1435,47,Masculino,8,Sonolência diurna,44,4,John,82,Indiferente
+1436,59,Masculino,4,Apneia do sono,52,2,Loretta,76,Levemente irritado
+1437,58,Feminino,9,Dificuldade em adormecer,159,2,Jack,57,Aborrecido
+1438,35,Masculino,9,Dificuldade em adormecer,13,3,Matthew,72,Sonolenta
+1439,25,Feminino,8,Sonolência diurna,135,5,Kayla,105,Cansado
+1440,35,Masculino,5,Sonambulismo,49,2,Eric,96,Feliz
+1441,61,Masculino,8,Insônia crônica,121,0,Samantha,66,Sonolenta
+1442,29,Feminino,5,Sonambulismo,80,2,Samantha,91,Aborrecido
+1443,45,Masculino,7,Insônia ocasional,126,5,Logan,110,Feliz
+1444,47,Masculino,10,Sem Problema,80,4,Shirley,111,Cansado
+1445,64,Feminino,4,Sem Problema,5,4,Sherri,66,Levemente irritado
+1446,56,Feminino,7,Sem Problema,8,5,Claudia,86,Sonolenta
+1447,35,Feminino,10,Dificuldade em adormecer,13,5,Marvin,81,Indiferente
+1448,65,Feminino,4,Sonolência diurna,182,2,Anne,68,Cansado
+1449,36,Masculino,7,Dificuldade em manter o sono,79,3,Michael,84,De bom humor
+1450,62,Feminino,9,Apneia do sono,124,1,Ashley,108,Indiferente
+1451,67,Masculino,9,Insônia crônica,95,4,Robert,102,Animado
+1452,69,Feminino,4,Sem Problema,195,1,Kaitlyn,97,Sonolenta
+1453,28,Feminino,4,Dificuldade em manter o sono,59,1,Brian,108,Feliz
+1454,43,Masculino,10,Dificuldade em adormecer,114,1,Brandon,105,Feliz
+1455,18,Feminino,6,Apneia do sono,35,2,Steven,59,Sonolenta
+1456,32,Masculino,5,Sonolência diurna,150,4,Aaron,68,Feliz
+1457,54,Masculino,6,Insônia crônica,131,2,Joseph,76,Levemente irritado
+1458,20,Feminino,8,Dificuldade em manter o sono,148,5,James,92,Feliz
+1459,21,Feminino,10,Sem Problema,71,1,Cathy,72,De bom humor
+1460,46,Feminino,6,Dificuldade em adormecer,71,3,Marie,109,De bom humor
+1461,62,Masculino,6,Sonolência diurna,168,5,Jennifer,91,Sonolenta
+1462,19,Masculino,5,Insônia crônica,97,2,Cathy,114,Feliz
+1463,48,Feminino,8,Sonolência diurna,140,1,Michelle,65,Sonolenta
+1464,69,Feminino,5,Insônia crônica,39,1,Amanda,61,Aborrecido
+1465,29,Masculino,8,Sem Problema,103,0,Renee,103,Aborrecido
+1466,34,Feminino,9,Dificuldade em adormecer,139,2,Kimberly,91,De bom humor
+1467,64,Feminino,6,Insônia crônica,45,4,Robert,57,Feliz
+1468,70,Masculino,9,Insônia crônica,168,4,Dylan,68,Aborrecido
+1469,68,Feminino,7,Apneia do sono,58,1,Kimberly,116,De bom humor
+1470,25,Feminino,6,Dificuldade em manter o sono,136,1,John,87,Indiferente
+1471,34,Feminino,7,Insônia crônica,162,1,Robert,96,Aborrecido
+1472,44,Feminino,7,Apneia do sono,159,5,William,103,Sonolenta
+1473,69,Feminino,4,Insônia crônica,5,3,Danielle,85,Indiferente
+1474,58,Feminino,5,Dificuldade em manter o sono,147,3,Russell,107,De bom humor
+1475,42,Masculino,8,Sonolência diurna,108,1,David,89,Animado
+1476,48,Feminino,6,Sem Problema,35,4,Nancy,85,De bom humor
+1477,24,Feminino,4,Sonambulismo,69,2,Andre,55,De bom humor
+1478,55,Feminino,7,Dificuldade em manter o sono,159,4,Harry,91,Indiferente
+1479,45,Masculino,6,Apneia do sono,182,5,Justin,112,Aborrecido
+1480,70,Masculino,8,Sonambulismo,103,5,Matthew,91,Levemente irritado
+1481,50,Masculino,9,Dificuldade em manter o sono,144,5,William,120,Aborrecido
+1482,58,Feminino,10,Sonolência diurna,80,3,Carla,114,Levemente irritado
+1483,31,Feminino,8,Insônia crônica,35,2,Haley,67,De bom humor
+1484,69,Feminino,6,Dificuldade em manter o sono,168,2,Jennifer,90,De bom humor
+1485,58,Masculino,4,Dificuldade em manter o sono,102,0,James,84,Feliz
+1486,19,Masculino,8,Sonambulismo,127,0,Richard,71,De bom humor
+1487,37,Masculino,7,Sonambulismo,20,5,William,115,Feliz
+1488,61,Masculino,4,Apneia do sono,133,0,Richard,68,Aborrecido
+1489,27,Masculino,4,Sonambulismo,39,4,Cynthia,74,Cansado
+1490,47,Masculino,8,Insônia ocasional,172,2,Anthony,111,Cansado
+1491,18,Masculino,6,Sonolência diurna,97,5,Kevin,90,Indiferente
+1492,67,Feminino,8,Apneia do sono,168,2,Elizabeth,72,Indiferente
+1493,63,Feminino,6,Dificuldade em adormecer,39,3,Brandon,56,Aborrecido
+1494,47,Masculino,7,Apneia do sono,98,4,William,119,Animado
+1495,44,Feminino,4,Apneia do sono,0,3,James,86,Cansado
+1496,46,Masculino,5,Insônia ocasional,134,5,Christopher,70,Animado
+1497,49,Masculino,10,Dificuldade em manter o sono,75,4,Jeffrey,59,De bom humor
+1498,65,Feminino,4,Sonambulismo,164,1,Stephanie,63,Cansado
+1499,23,Masculino,4,Sonolência diurna,71,5,Kiara,84,De bom humor
+1500,52,Feminino,9,Apneia do sono,134,0,April,110,Cansado
+1501,69,Feminino,6,Insônia ocasional,89,1,James,55,Levemente irritado
+1502,56,Masculino,10,Sem Problema,111,0,Anna,115,Feliz
+1503,18,Masculino,5,Sonolência diurna,102,4,Bruce,84,Levemente irritado
+1504,29,Masculino,9,Dificuldade em adormecer,117,4,John,80,Indiferente
+1505,67,Feminino,6,Dificuldade em manter o sono,145,5,Timothy,59,Animado
+1506,23,Feminino,5,Insônia crônica,53,3,Paul,119,Aborrecido
+1507,56,Feminino,9,Dificuldade em manter o sono,140,4,Linda,110,Aborrecido
+1508,48,Masculino,6,Sonolência diurna,130,5,Samantha,118,Cansado
+1509,40,Feminino,10,Sonambulismo,27,4,Suzanne,112,Levemente irritado
+1510,67,Feminino,8,Insônia ocasional,132,4,Susan,99,Indiferente
+1511,51,Feminino,6,Dificuldade em adormecer,118,2,Matthew,80,Aborrecido
+1512,64,Masculino,6,Apneia do sono,104,1,Robin,69,Animado
+1513,63,Feminino,8,Sonambulismo,58,4,Allen,74,Aborrecido
+1514,50,Feminino,5,Insônia crônica,120,4,Eric,84,Levemente irritado
+1515,32,Masculino,9,Dificuldade em adormecer,4,4,Patrick,83,Animado
+1516,47,Masculino,9,Dificuldade em adormecer,117,2,Connor,112,De bom humor
+1517,32,Masculino,8,Sem Problema,79,2,Michele,56,Animado
+1518,48,Feminino,9,Insônia ocasional,139,3,John,60,Levemente irritado
+1519,27,Feminino,4,Insônia crônica,95,5,Bryan,62,De bom humor
+1520,37,Feminino,9,Sem Problema,48,0,Kim,85,Sonolenta
+1521,38,Feminino,9,Insônia ocasional,59,0,Leslie,60,Animado
+1522,48,Masculino,9,Dificuldade em adormecer,56,0,Brett,106,Sonolenta
+1523,55,Masculino,9,Dificuldade em manter o sono,118,3,Stephanie,93,Indiferente
+1524,61,Masculino,9,Insônia crônica,175,0,Rita,88,Animado
+1525,19,Masculino,8,Apneia do sono,67,5,Taylor,100,Cansado
+1526,51,Feminino,8,Insônia ocasional,99,3,John,106,Animado
+1527,25,Masculino,9,Sem Problema,7,1,Aaron,116,Animado
+1528,50,Feminino,9,Sonolência diurna,173,5,Maria,100,Indiferente
+1529,58,Feminino,4,Insônia crônica,161,0,Meghan,75,Cansado
+1530,69,Feminino,10,Dificuldade em manter o sono,81,0,Melanie,79,De bom humor
+1531,50,Feminino,4,Dificuldade em manter o sono,120,2,Joseph,73,Levemente irritado
+1532,40,Masculino,10,Dificuldade em manter o sono,84,3,Lee,104,Sonolenta
+1533,18,Feminino,10,Sonolência diurna,200,3,John,99,Levemente irritado
+1534,33,Masculino,8,Sonolência diurna,114,2,Samuel,91,Aborrecido
+1535,69,Feminino,9,Dificuldade em manter o sono,7,5,Allison,85,Aborrecido
+1536,57,Feminino,4,Sonambulismo,90,0,Anna,85,Levemente irritado
+1537,28,Feminino,4,Sonolência diurna,12,1,Ryan,105,Cansado
+1538,31,Masculino,8,Insônia crônica,199,0,Marcus,72,Indiferente
+1539,39,Masculino,8,Insônia ocasional,60,3,Benjamin,63,De bom humor
+1540,41,Masculino,9,Dificuldade em manter o sono,69,5,Anthony,88,Animado
+1541,26,Masculino,4,Sonambulismo,104,2,Christopher,62,Cansado
+1542,41,Masculino,4,Apneia do sono,104,2,John,80,Cansado
+1543,42,Feminino,8,Sonambulismo,37,0,Jean,116,Levemente irritado
+1544,51,Feminino,10,Sonolência diurna,2,0,Nicholas,56,De bom humor
+1545,64,Masculino,4,Sonambulismo,165,1,Courtney,87,Sonolenta
+1546,45,Masculino,6,Apneia do sono,94,3,Kayla,95,De bom humor
+1547,33,Feminino,8,Dificuldade em adormecer,113,5,Savannah,66,Sonolenta
+1548,49,Masculino,7,Dificuldade em adormecer,12,3,Steven,66,Levemente irritado
+1549,70,Feminino,7,Insônia ocasional,22,4,Michelle,106,Levemente irritado
+1550,30,Masculino,4,Sonambulismo,66,3,Troy,67,Aborrecido
+1551,28,Feminino,5,Insônia crônica,168,4,Cassandra,69,Cansado
+1552,64,Feminino,10,Apneia do sono,25,3,Robert,82,De bom humor
+1553,58,Feminino,10,Sonolência diurna,23,0,Michael,83,Cansado
+1554,44,Feminino,10,Insônia crônica,163,3,Clifford,115,Levemente irritado
+1555,52,Feminino,7,Dificuldade em manter o sono,183,4,Angela,82,Levemente irritado
+1556,64,Masculino,7,Sonolência diurna,77,3,Randy,103,Aborrecido
+1557,63,Masculino,10,Dificuldade em manter o sono,15,1,Christina,89,Animado
+1558,31,Masculino,8,Dificuldade em adormecer,59,2,Tyrone,59,Aborrecido
+1559,30,Feminino,7,Dificuldade em manter o sono,31,2,Cody,70,Animado
+1560,64,Feminino,10,Sonambulismo,86,4,Gina,78,Aborrecido
+1561,32,Feminino,9,Dificuldade em adormecer,65,2,Suzanne,106,Sonolenta
+1562,45,Feminino,8,Dificuldade em manter o sono,54,0,Amanda,104,Feliz
+1563,28,Masculino,8,Sonolência diurna,74,5,Olivia,119,Levemente irritado
+1564,18,Feminino,6,Insônia ocasional,198,3,Sandra,108,De bom humor
+1565,23,Feminino,10,Dificuldade em manter o sono,101,5,Jeffrey,102,Aborrecido
+1566,49,Feminino,10,Sonolência diurna,182,2,Jacob,68,Animado
+1567,70,Masculino,4,Sonolência diurna,164,1,Rachel,72,Indiferente
+1568,27,Feminino,10,Sonolência diurna,97,4,Dominique,75,Cansado
+1569,29,Masculino,6,Sonolência diurna,123,3,Juan,82,Sonolenta
+1570,67,Masculino,10,Dificuldade em manter o sono,132,5,Tracy,78,Feliz
+1571,61,Feminino,4,Insônia crônica,11,1,Manuel,114,Feliz
+1572,42,Masculino,10,Insônia ocasional,189,1,Scott,79,Feliz
+1573,23,Feminino,10,Apneia do sono,196,2,Nicholas,61,Cansado
+1574,61,Feminino,6,Dificuldade em manter o sono,3,3,Eric,88,Aborrecido
+1575,61,Feminino,10,Insônia ocasional,46,1,Vanessa,56,De bom humor
+1576,57,Masculino,10,Sonolência diurna,146,3,Aaron,56,Animado
+1577,25,Masculino,10,Sonambulismo,73,0,Kristen,116,Aborrecido
+1578,35,Feminino,5,Apneia do sono,171,4,Alec,114,Indiferente
+1579,68,Masculino,9,Sem Problema,180,0,Maria,98,Feliz
+1580,51,Masculino,10,Dificuldade em adormecer,58,2,Julie,110,Indiferente
+1581,66,Masculino,5,Sonolência diurna,126,0,Travis,112,Cansado
+1582,21,Masculino,4,Sonolência diurna,46,0,Jeffrey,86,Feliz
+1583,61,Feminino,8,Insônia ocasional,166,3,Alan,96,De bom humor
+1584,61,Feminino,4,Dificuldade em adormecer,94,3,Stephen,114,Indiferente
+1585,22,Masculino,4,Sonambulismo,170,2,Mary,69,Animado
+1586,33,Feminino,4,Apneia do sono,150,2,Bruce,88,Animado
+1587,25,Feminino,10,Insônia crônica,16,1,Nicole,63,De bom humor
+1588,60,Masculino,9,Dificuldade em adormecer,151,0,Monica,92,Sonolenta
+1589,58,Feminino,7,Dificuldade em adormecer,106,5,Jesse,62,Cansado
+1590,43,Feminino,5,Sonolência diurna,168,4,Katelyn,66,Cansado
+1591,27,Masculino,5,Sem Problema,71,1,David,71,Aborrecido
+1592,63,Masculino,7,Dificuldade em adormecer,173,0,Lisa,96,De bom humor
+1593,57,Masculino,10,Sem Problema,144,4,Walter,61,Animado
+1594,66,Masculino,5,Sonolência diurna,34,1,Gabriel,65,Levemente irritado
+1595,21,Feminino,9,Sonolência diurna,174,3,Gregory,56,Feliz
+1596,63,Feminino,4,Apneia do sono,28,0,Ashley,65,Sonolenta
+1597,18,Feminino,4,Apneia do sono,149,0,David,80,Levemente irritado
+1598,63,Masculino,9,Sem Problema,158,0,Becky,60,Aborrecido
+1599,65,Feminino,6,Sonambulismo,28,5,Theresa,57,De bom humor
+1600,70,Feminino,4,Sonolência diurna,187,0,Jerry,118,Feliz
+1601,40,Masculino,8,Sonolência diurna,91,2,Tanya,85,Aborrecido
+1602,68,Masculino,8,Sonolência diurna,52,5,Dawn,81,Aborrecido
+1603,49,Masculino,7,Insônia crônica,34,3,Dominic,115,Indiferente
+1604,47,Feminino,9,Dificuldade em manter o sono,74,4,Haley,78,Indiferente
+1605,40,Masculino,6,Sonambulismo,188,1,Nicole,95,Feliz
+1606,67,Masculino,4,Sonolência diurna,163,0,Danielle,64,Indiferente
+1607,20,Masculino,5,Sem Problema,48,0,Jason,69,Cansado
+1608,69,Feminino,6,Dificuldade em manter o sono,75,5,Tammy,57,De bom humor
+1609,45,Feminino,5,Insônia crônica,197,4,Carmen,68,Sonolenta
+1610,57,Masculino,5,Dificuldade em adormecer,72,1,Patrick,81,De bom humor
+1611,68,Masculino,8,Dificuldade em manter o sono,129,3,Cynthia,87,Sonolenta
+1612,30,Feminino,8,Dificuldade em adormecer,6,4,Sara,66,Cansado
+1613,69,Masculino,4,Sonolência diurna,164,3,Elaine,89,Animado
+1614,29,Masculino,8,Dificuldade em adormecer,200,0,Jonathan,62,Feliz
+1615,48,Masculino,8,Dificuldade em adormecer,37,0,Michael,83,Indiferente
+1616,34,Feminino,9,Dificuldade em manter o sono,9,5,Nathaniel,59,Indiferente
+1617,68,Masculino,9,Dificuldade em adormecer,194,1,Lindsey,55,Aborrecido
+1618,19,Masculino,10,Apneia do sono,149,0,Thomas,118,Aborrecido
+1619,64,Masculino,10,Dificuldade em manter o sono,195,3,Tina,101,Indiferente
+1620,25,Feminino,6,Dificuldade em adormecer,153,5,Christopher,64,Sonolenta
+1621,24,Masculino,5,Insônia crônica,40,1,Raven,66,Cansado
+1622,18,Feminino,4,Apneia do sono,76,0,Ricky,97,Animado
+1623,23,Masculino,5,Sem Problema,86,1,Raymond,119,Indiferente
+1624,59,Masculino,5,Sonolência diurna,24,0,Emily,91,Cansado
+1625,63,Feminino,6,Sonolência diurna,134,3,Victoria,100,Aborrecido
+1626,58,Feminino,5,Sem Problema,96,4,Ebony,118,Indiferente
+1627,58,Masculino,9,Dificuldade em manter o sono,64,5,James,76,Indiferente
+1628,29,Feminino,4,Sonambulismo,89,3,Teresa,75,Feliz
+1629,25,Feminino,4,Dificuldade em manter o sono,45,3,Jacqueline,79,Indiferente
+1630,67,Masculino,5,Dificuldade em manter o sono,121,3,Jennifer,72,Animado
+1631,28,Feminino,9,Dificuldade em adormecer,55,2,Michael,74,Levemente irritado
+1632,32,Feminino,4,Dificuldade em manter o sono,147,3,Jared,92,Feliz
+1633,66,Feminino,5,Sonolência diurna,196,1,Kiara,99,Animado
+1634,23,Masculino,8,Sem Problema,103,3,Lori,92,Cansado
+1635,38,Masculino,9,Dificuldade em adormecer,71,0,Randy,107,Cansado
+1636,54,Feminino,10,Apneia do sono,1,5,Brian,90,Feliz
+1637,35,Masculino,7,Dificuldade em manter o sono,193,2,Maria,69,Cansado
+1638,37,Feminino,9,Dificuldade em adormecer,71,2,Alvin,65,De bom humor
+1639,22,Feminino,9,Dificuldade em adormecer,126,5,Shawn,119,Sonolenta
+1640,23,Feminino,9,Insônia crônica,41,0,David,55,Levemente irritado
+1641,23,Feminino,6,Sonambulismo,169,2,Glenn,61,Levemente irritado
+1642,39,Feminino,5,Insônia ocasional,194,4,Jasmine,113,Feliz
+1643,37,Masculino,7,Dificuldade em manter o sono,198,5,Jessica,95,Feliz
+1644,20,Feminino,7,Sem Problema,60,0,Ryan,88,Feliz
+1645,64,Masculino,10,Dificuldade em manter o sono,173,4,Jason,73,Cansado
+1646,59,Masculino,9,Sonambulismo,72,5,Richard,84,Cansado
+1647,29,Feminino,10,Dificuldade em adormecer,176,4,Bryce,104,Sonolenta
+1648,26,Masculino,10,Apneia do sono,88,4,Cody,102,Animado
+1649,52,Feminino,5,Dificuldade em manter o sono,47,5,Stephanie,118,De bom humor
+1650,47,Feminino,7,Dificuldade em adormecer,40,0,Elizabeth,86,Cansado
+1651,66,Feminino,8,Dificuldade em adormecer,183,2,Nicole,108,Levemente irritado
+1652,37,Masculino,7,Insônia ocasional,98,2,Allison,89,Feliz
+1653,25,Feminino,7,Dificuldade em manter o sono,34,1,Elizabeth,96,Feliz
+1654,43,Masculino,8,Apneia do sono,192,2,Rachel,108,Levemente irritado
+1655,58,Feminino,4,Apneia do sono,101,5,Jacqueline,91,Sonolenta
+1656,31,Masculino,7,Sonambulismo,56,3,Megan,85,Sonolenta
+1657,60,Masculino,8,Dificuldade em adormecer,1,3,Brandi,84,Cansado
+1658,61,Feminino,10,Insônia crônica,93,1,Elizabeth,62,Sonolenta
+1659,25,Feminino,9,Dificuldade em manter o sono,129,1,Sarah,118,Animado
+1660,52,Masculino,8,Dificuldade em manter o sono,152,1,Denise,109,Sonolenta
+1661,39,Feminino,7,Insônia ocasional,121,5,Wendy,115,Levemente irritado
+1662,30,Masculino,4,Apneia do sono,35,3,Benjamin,91,Feliz
+1663,25,Masculino,10,Insônia crônica,64,3,Mackenzie,107,De bom humor
+1664,32,Feminino,8,Dificuldade em adormecer,34,0,Nicole,95,Indiferente
+1665,45,Feminino,8,Dificuldade em adormecer,16,5,Mindy,112,Feliz
+1666,37,Feminino,5,Sonolência diurna,21,1,Alexis,98,Indiferente
+1667,42,Feminino,4,Insônia crônica,92,3,Kristin,60,Sonolenta
+1668,38,Masculino,10,Insônia ocasional,142,3,Bradley,118,De bom humor
+1669,62,Feminino,8,Sonolência diurna,41,2,Eric,90,Indiferente
+1670,42,Masculino,7,Dificuldade em adormecer,124,3,Julie,88,Aborrecido
+1671,51,Feminino,10,Apneia do sono,164,3,Frank,80,Animado
+1672,43,Masculino,10,Sonolência diurna,34,2,Melanie,95,De bom humor
+1673,64,Feminino,6,Sem Problema,7,5,Brooke,76,De bom humor
+1674,53,Feminino,7,Sonolência diurna,98,2,Christina,64,Animado
+1675,57,Masculino,8,Dificuldade em manter o sono,196,2,Miguel,59,Feliz
+1676,61,Masculino,8,Insônia ocasional,29,2,Jennifer,92,Levemente irritado
+1677,68,Masculino,5,Dificuldade em manter o sono,164,5,Shannon,88,Indiferente
+1678,31,Feminino,7,Apneia do sono,177,3,Steven,88,De bom humor
+1679,69,Masculino,5,Insônia crônica,13,1,Jennifer,80,Animado
+1680,31,Feminino,9,Insônia ocasional,9,0,John,101,Sonolenta
+1681,42,Feminino,9,Dificuldade em manter o sono,142,3,Scott,112,Indiferente
+1682,59,Feminino,7,Sonambulismo,200,3,Nicole,102,Indiferente
+1683,37,Masculino,6,Dificuldade em manter o sono,193,0,Carolyn,66,Levemente irritado
+1684,38,Masculino,10,Dificuldade em adormecer,49,1,Jamie,62,Aborrecido
+1685,44,Feminino,6,Sonolência diurna,126,0,Jessica,69,Aborrecido
+1686,35,Feminino,10,Insônia ocasional,40,0,David,116,Cansado
+1687,30,Masculino,6,Dificuldade em manter o sono,155,1,Sarah,89,Indiferente
+1688,41,Feminino,5,Sonolência diurna,200,5,Gina,79,Cansado
+1689,21,Feminino,7,Sem Problema,36,1,John,57,Indiferente
+1690,59,Masculino,9,Dificuldade em manter o sono,130,2,Melanie,96,Animado
+1691,42,Masculino,10,Dificuldade em adormecer,105,1,Juan,119,Indiferente
+1692,20,Feminino,10,Dificuldade em manter o sono,112,4,Richard,79,Sonolenta
+1693,33,Masculino,5,Dificuldade em manter o sono,136,2,James,63,De bom humor
+1694,23,Feminino,9,Dificuldade em adormecer,79,1,Joseph,80,Feliz
+1695,60,Feminino,5,Insônia ocasional,55,4,Bryan,119,Aborrecido
+1696,18,Masculino,8,Apneia do sono,95,5,Eric,82,Indiferente
+1697,44,Masculino,9,Sem Problema,106,1,Natasha,67,Sonolenta
+1698,43,Feminino,10,Dificuldade em manter o sono,69,1,Madison,111,Levemente irritado
+1699,65,Masculino,8,Apneia do sono,154,2,Timothy,62,De bom humor
+1700,24,Masculino,7,Sonolência diurna,14,4,Matthew,94,Animado
+1701,60,Masculino,10,Sonambulismo,60,5,Janet,63,Feliz
+1702,20,Masculino,10,Insônia ocasional,75,5,Mary,107,Sonolenta
+1703,37,Masculino,8,Sonambulismo,108,1,Raymond,117,Cansado
+1704,35,Feminino,6,Sonolência diurna,114,5,Makayla,92,Feliz
+1705,48,Masculino,10,Insônia ocasional,23,1,Michael,95,De bom humor
+1706,51,Masculino,8,Apneia do sono,86,1,Travis,77,Indiferente
+1707,56,Feminino,9,Sem Problema,177,5,Alice,72,Sonolenta
+1708,47,Masculino,6,Sonolência diurna,50,2,Shannon,56,Cansado
+1709,43,Masculino,9,Sonolência diurna,53,3,Charles,118,Levemente irritado
+1710,56,Feminino,6,Insônia crônica,129,0,Colleen,65,Aborrecido
+1711,20,Feminino,6,Sem Problema,7,1,Regina,56,Indiferente
+1712,57,Masculino,4,Sem Problema,13,3,Elizabeth,109,Feliz
+1713,63,Masculino,9,Apneia do sono,139,5,Melissa,75,Feliz
+1714,68,Feminino,10,Apneia do sono,47,3,Michael,80,Cansado
+1715,38,Feminino,8,Sonambulismo,3,3,Jeremy,104,Aborrecido
+1716,40,Masculino,6,Apneia do sono,82,0,Kelsey,84,Animado
+1717,33,Masculino,4,Apneia do sono,117,5,Jenna,69,Indiferente
+1718,57,Feminino,7,Dificuldade em adormecer,81,2,Allen,72,Levemente irritado
+1719,49,Feminino,9,Sonolência diurna,148,2,Pamela,77,Feliz
+1720,36,Masculino,9,Dificuldade em adormecer,125,4,Karina,65,Cansado
+1721,26,Feminino,10,Sonambulismo,29,5,Dennis,93,Levemente irritado
+1722,34,Feminino,10,Insônia ocasional,154,2,William,119,Levemente irritado
+1723,39,Masculino,4,Insônia ocasional,77,1,Jeremy,70,Feliz
+1724,28,Masculino,7,Insônia crônica,1,3,Cassie,92,Aborrecido
+1725,46,Masculino,10,Sonolência diurna,11,1,Jeremy,92,De bom humor
+1726,57,Feminino,6,Sonolência diurna,1,5,Karen,106,Cansado
+1727,43,Feminino,8,Insônia crônica,36,2,Heather,116,Sonolenta
+1728,32,Feminino,6,Sonambulismo,5,0,Richard,119,De bom humor
+1729,22,Masculino,6,Dificuldade em adormecer,79,1,Rhonda,115,Levemente irritado
+1730,59,Feminino,5,Dificuldade em manter o sono,154,2,Patricia,76,Animado
+1731,49,Masculino,4,Sonolência diurna,101,4,Melinda,59,Animado
+1732,44,Masculino,6,Insônia ocasional,62,1,Charles,118,Sonolenta
+1733,68,Masculino,6,Insônia ocasional,18,0,Nancy,85,Cansado
+1734,61,Feminino,7,Sonolência diurna,148,0,David,62,Levemente irritado
+1735,69,Feminino,7,Apneia do sono,51,2,Jason,106,Aborrecido
+1736,49,Feminino,6,Dificuldade em manter o sono,139,2,Margaret,101,Levemente irritado
+1737,30,Feminino,5,Sem Problema,145,4,Melissa,75,De bom humor
+1738,61,Masculino,10,Dificuldade em adormecer,131,0,Garrett,104,De bom humor
+1739,26,Feminino,10,Apneia do sono,113,3,Gilbert,97,Feliz
+1740,59,Feminino,6,Insônia crônica,195,2,Jerry,71,Sonolenta
+1741,34,Masculino,10,Sonolência diurna,34,2,Brett,59,Aborrecido
+1742,61,Feminino,8,Dificuldade em adormecer,163,3,Daniel,114,De bom humor
+1743,60,Masculino,8,Sonambulismo,33,2,Cynthia,104,Feliz
+1744,70,Feminino,6,Insônia crônica,37,5,Yolanda,114,Sonolenta
+1745,37,Masculino,8,Sonambulismo,13,2,Christopher,61,De bom humor
+1746,45,Feminino,8,Insônia ocasional,73,1,Cody,55,Feliz
+1747,19,Masculino,4,Apneia do sono,151,1,Alison,61,Aborrecido
+1748,33,Feminino,7,Sem Problema,105,0,Holly,95,Animado
+1749,42,Masculino,10,Dificuldade em manter o sono,28,1,William,117,Indiferente
+1750,26,Feminino,8,Apneia do sono,26,1,Jenna,77,De bom humor
+1751,44,Masculino,5,Sem Problema,177,5,Gwendolyn,66,Animado
+1752,34,Masculino,7,Insônia crônica,114,3,Taylor,113,Feliz
+1753,31,Feminino,9,Sonolência diurna,144,4,Stephen,91,De bom humor
+1754,51,Masculino,10,Sonolência diurna,100,5,Vanessa,92,Feliz
+1755,40,Feminino,10,Insônia crônica,9,4,Ricky,67,Aborrecido
+1756,29,Masculino,8,Insônia crônica,97,3,Jay,56,De bom humor
+1757,30,Feminino,7,Sonambulismo,75,4,Jason,65,Feliz
+1758,19,Masculino,9,Sonambulismo,104,5,Edward,59,Feliz
+1759,40,Feminino,9,Dificuldade em adormecer,79,3,Stacy,73,Sonolenta
+1760,66,Masculino,4,Apneia do sono,187,1,Shawn,96,Levemente irritado
+1761,46,Masculino,6,Dificuldade em manter o sono,134,5,Patrick,67,Levemente irritado
+1762,57,Masculino,9,Apneia do sono,191,5,Tommy,115,Aborrecido
+1763,22,Feminino,10,Sonambulismo,101,1,Paul,75,Sonolenta
+1764,38,Masculino,10,Apneia do sono,65,3,David,76,Cansado
+1765,42,Feminino,9,Sonolência diurna,135,1,Gregory,106,Aborrecido
+1766,46,Masculino,8,Sonolência diurna,11,0,Kelly,99,Aborrecido
+1767,42,Feminino,5,Dificuldade em adormecer,121,5,Nicholas,96,De bom humor
+1768,54,Feminino,6,Apneia do sono,119,3,Joel,111,Indiferente
+1769,61,Masculino,7,Insônia crônica,142,1,Jonathan,118,Aborrecido
+1770,58,Feminino,7,Apneia do sono,36,3,Tracy,88,Sonolenta
+1771,70,Feminino,5,Sonolência diurna,39,2,Julia,95,De bom humor
+1772,44,Feminino,9,Sonambulismo,34,1,Michele,79,De bom humor
+1773,44,Masculino,8,Sem Problema,68,5,Nicholas,98,Aborrecido
+1774,58,Feminino,8,Insônia crônica,182,1,Gavin,67,Aborrecido
+1775,66,Masculino,10,Dificuldade em manter o sono,110,3,Crystal,110,Cansado
+1776,18,Feminino,4,Apneia do sono,71,4,Jennifer,114,Sonolenta
+1777,18,Masculino,9,Apneia do sono,105,1,Cynthia,89,De bom humor
+1778,25,Masculino,4,Dificuldade em manter o sono,149,5,Bryan,120,Animado
+1779,25,Feminino,10,Sonambulismo,11,2,David,85,Feliz
+1780,54,Masculino,9,Insônia ocasional,68,4,Samantha,91,Feliz
+1781,56,Masculino,4,Apneia do sono,92,1,Krista,80,Cansado
+1782,55,Feminino,7,Insônia ocasional,133,1,Katherine,88,Feliz
+1783,48,Feminino,10,Insônia crônica,89,0,Jessica,79,Indiferente
+1784,39,Masculino,9,Dificuldade em adormecer,115,5,Amy,102,Aborrecido
+1785,29,Feminino,6,Insônia ocasional,123,3,Carla,84,Cansado
+1786,66,Feminino,5,Dificuldade em adormecer,50,0,Krystal,87,Indiferente
+1787,22,Feminino,10,Apneia do sono,194,4,Sarah,114,Indiferente
+1788,32,Feminino,4,Apneia do sono,159,5,Carol,117,Animado
+1789,32,Masculino,5,Sonambulismo,83,3,Mary,69,Aborrecido
+1790,42,Feminino,10,Insônia crônica,81,4,Brandi,89,Animado
+1791,67,Masculino,5,Dificuldade em adormecer,170,2,Randy,70,Levemente irritado
+1792,30,Masculino,8,Insônia crônica,163,0,Roberto,84,Animado
+1793,38,Feminino,5,Insônia ocasional,21,1,Drew,118,Levemente irritado
+1794,67,Feminino,6,Dificuldade em adormecer,94,3,David,87,Cansado
+1795,43,Feminino,6,Dificuldade em manter o sono,78,2,Janet,74,Cansado
+1796,58,Feminino,10,Sem Problema,3,5,Cheryl,104,Levemente irritado
+1797,21,Masculino,7,Dificuldade em manter o sono,171,0,Robert,75,Animado
+1798,48,Masculino,7,Sem Problema,35,0,Krista,89,Feliz
+1799,45,Feminino,7,Dificuldade em manter o sono,15,5,Michael,104,Sonolenta
+1800,67,Feminino,7,Insônia crônica,48,0,Nicholas,68,Aborrecido
+1801,29,Feminino,8,Sem Problema,110,2,George,76,Cansado
+1802,39,Masculino,8,Apneia do sono,160,1,Mary,86,De bom humor
+1803,68,Masculino,9,Sonolência diurna,78,0,William,107,Sonolenta
+1804,70,Feminino,9,Dificuldade em adormecer,120,2,David,99,Feliz
+1805,23,Masculino,9,Insônia crônica,136,3,Mary,77,Indiferente
+1806,67,Masculino,10,Dificuldade em manter o sono,186,4,Daniel,118,Animado
+1807,65,Feminino,4,Insônia crônica,134,3,Brandon,79,Aborrecido
+1808,68,Masculino,10,Dificuldade em adormecer,77,4,Christina,71,Animado
+1809,28,Masculino,5,Apneia do sono,139,0,Robin,74,Levemente irritado
+1810,58,Feminino,9,Sonambulismo,138,2,William,61,Feliz
+1811,42,Feminino,5,Sonambulismo,168,1,Don,69,Animado
+1812,56,Masculino,7,Dificuldade em adormecer,166,3,Tyler,78,Sonolenta
+1813,66,Feminino,6,Sonolência diurna,178,2,Joyce,113,Cansado
+1814,50,Feminino,6,Apneia do sono,105,2,Emily,93,Feliz
+1815,47,Feminino,6,Insônia ocasional,60,5,Gerald,109,Feliz
+1816,57,Feminino,8,Sonolência diurna,26,0,Jessica,112,Animado
+1817,19,Feminino,6,Sonambulismo,25,5,Stacey,109,Aborrecido
+1818,68,Feminino,6,Insônia crônica,131,1,Patricia,68,Animado
+1819,69,Feminino,9,Dificuldade em manter o sono,155,2,Mark,100,Sonolenta
+1820,70,Feminino,10,Sem Problema,35,2,Sabrina,88,Sonolenta
+1821,65,Masculino,6,Sonolência diurna,166,4,Samantha,115,Sonolenta
+1822,27,Feminino,9,Insônia ocasional,162,5,Bonnie,94,Indiferente
+1823,52,Feminino,8,Dificuldade em adormecer,44,3,Shannon,103,Cansado
+1824,37,Feminino,4,Insônia crônica,59,4,Morgan,100,Sonolenta
+1825,30,Feminino,6,Insônia crônica,141,4,Joshua,62,Feliz
+1826,61,Masculino,8,Insônia ocasional,193,1,Sandra,95,Levemente irritado
+1827,63,Masculino,6,Insônia ocasional,126,4,Kelli,85,Levemente irritado
+1828,50,Masculino,6,Sem Problema,84,3,Robert,56,De bom humor
+1829,62,Feminino,6,Insônia crônica,61,0,Ellen,87,Feliz
+1830,19,Feminino,6,Insônia crônica,7,0,Heather,90,Aborrecido
+1831,69,Feminino,6,Sonolência diurna,11,3,Thomas,112,Levemente irritado
+1832,50,Masculino,8,Sem Problema,14,0,Courtney,113,Feliz
+1833,69,Masculino,9,Insônia ocasional,44,3,Rebecca,100,Levemente irritado
+1834,62,Masculino,9,Dificuldade em manter o sono,138,5,Heather,93,Indiferente
+1835,21,Masculino,10,Apneia do sono,170,3,Daniel,70,Levemente irritado
+1836,54,Masculino,4,Sonolência diurna,176,1,Susan,119,Indiferente
+1837,45,Masculino,9,Sem Problema,106,4,Stacey,119,De bom humor
+1838,40,Masculino,4,Sem Problema,109,1,Christopher,111,Levemente irritado
+1839,22,Masculino,8,Dificuldade em manter o sono,148,5,Donna,111,De bom humor
+1840,64,Masculino,10,Insônia ocasional,67,0,Michael,91,Feliz
+1841,37,Masculino,9,Dificuldade em adormecer,104,2,Katherine,69,Indiferente
+1842,36,Masculino,4,Dificuldade em adormecer,34,1,Jennifer,75,Feliz
+1843,26,Feminino,9,Sem Problema,144,1,Jeffrey,59,De bom humor
+1844,58,Masculino,4,Sonolência diurna,98,0,Daniel,104,Animado
+1845,30,Masculino,6,Insônia crônica,54,0,Jackie,88,Indiferente
+1846,63,Feminino,4,Insônia ocasional,26,2,Alex,117,Levemente irritado
+1847,46,Masculino,4,Sonolência diurna,124,3,Melissa,111,Aborrecido
+1848,25,Feminino,4,Insônia crônica,5,1,Courtney,95,Indiferente
+1849,24,Masculino,6,Sem Problema,144,0,John,101,Animado
+1850,67,Feminino,9,Insônia ocasional,121,0,Danny,64,Levemente irritado
+1851,52,Feminino,7,Sonambulismo,105,3,Kevin,78,Levemente irritado
+1852,63,Masculino,4,Dificuldade em manter o sono,47,4,Corey,57,Indiferente
+1853,37,Masculino,5,Insônia crônica,191,5,David,67,Levemente irritado
+1854,70,Masculino,7,Sem Problema,174,4,Amy,102,Feliz
+1855,64,Masculino,9,Sonambulismo,48,2,Jessica,106,Levemente irritado
+1856,41,Feminino,10,Apneia do sono,29,3,Emily,69,De bom humor
+1857,39,Feminino,4,Sonolência diurna,142,4,Michelle,108,Animado
+1858,22,Masculino,7,Dificuldade em adormecer,145,1,Thomas,60,Sonolenta
+1859,70,Feminino,6,Apneia do sono,37,4,Steven,79,Indiferente
+1860,70,Feminino,4,Dificuldade em manter o sono,7,3,Cathy,107,Sonolenta
+1861,40,Masculino,10,Insônia crônica,176,2,Barbara,69,Animado
+1862,21,Feminino,10,Sem Problema,182,3,Thomas,76,Animado
+1863,53,Masculino,9,Dificuldade em adormecer,188,3,Michael,119,De bom humor
+1864,67,Feminino,7,Sem Problema,177,5,Vanessa,64,Cansado
+1865,57,Masculino,6,Sem Problema,100,5,Dustin,65,Levemente irritado
+1866,41,Masculino,10,Sonambulismo,27,2,Kiara,61,Levemente irritado
+1867,44,Masculino,10,Sonambulismo,77,5,Maria,102,Cansado
+1868,25,Feminino,9,Apneia do sono,40,5,Hayley,85,Feliz
+1869,20,Masculino,5,Insônia ocasional,112,4,Albert,88,De bom humor
+1870,43,Feminino,5,Sem Problema,61,4,Ann,113,Feliz
+1871,27,Masculino,7,Sem Problema,66,0,Sara,70,Sonolenta
+1872,41,Masculino,6,Dificuldade em adormecer,147,5,Joanne,105,Levemente irritado
+1873,64,Feminino,6,Dificuldade em adormecer,133,2,Michelle,114,Levemente irritado
+1874,35,Feminino,6,Insônia crônica,119,1,Eric,92,Levemente irritado
+1875,36,Feminino,5,Dificuldade em manter o sono,171,1,Caitlin,77,Cansado
+1876,56,Masculino,10,Sonolência diurna,89,4,Larry,119,Indiferente
+1877,65,Feminino,10,Sonambulismo,52,1,Laura,96,Feliz
+1878,55,Masculino,5,Apneia do sono,131,3,Brett,75,Sonolenta
+1879,34,Masculino,9,Insônia ocasional,123,1,Dennis,106,Cansado
+1880,27,Feminino,8,Sonambulismo,3,3,Samuel,100,De bom humor
+1881,20,Masculino,7,Sem Problema,155,0,Jessica,99,Feliz
+1882,25,Masculino,6,Sonolência diurna,164,1,Regina,102,Aborrecido
+1883,44,Masculino,7,Dificuldade em manter o sono,137,0,Christopher,97,Indiferente
+1884,51,Masculino,9,Insônia crônica,94,5,Richard,80,Animado
+1885,53,Masculino,4,Insônia ocasional,22,4,Luke,78,Indiferente
+1886,19,Masculino,6,Sonolência diurna,117,2,Tamara,110,De bom humor
+1887,34,Masculino,10,Sem Problema,123,4,Tina,102,Sonolenta
+1888,38,Masculino,4,Dificuldade em adormecer,163,3,Robin,77,Cansado
+1889,33,Masculino,9,Sem Problema,196,4,Brianna,70,Sonolenta
+1890,25,Feminino,7,Sonolência diurna,133,1,Jeremy,63,Levemente irritado
+1891,58,Masculino,8,Apneia do sono,183,4,Dana,69,Levemente irritado
+1892,49,Feminino,10,Apneia do sono,105,1,Brian,106,Indiferente
+1893,48,Feminino,9,Insônia ocasional,24,5,Rebecca,111,Sonolenta
+1894,26,Masculino,6,Dificuldade em manter o sono,37,0,Monica,115,Sonolenta
+1895,20,Masculino,9,Dificuldade em adormecer,80,2,Elizabeth,84,Aborrecido
+1896,60,Masculino,4,Dificuldade em adormecer,170,2,Christopher,100,De bom humor
+1897,68,Feminino,5,Dificuldade em manter o sono,117,4,Jason,86,Animado
+1898,39,Masculino,9,Dificuldade em manter o sono,136,2,Beth,103,Aborrecido
+1899,43,Feminino,6,Apneia do sono,47,2,Vincent,115,Indiferente
+1900,62,Feminino,10,Sonolência diurna,56,3,William,101,Animado
+1901,29,Feminino,8,Sonolência diurna,186,0,Darren,65,Animado
+1902,70,Masculino,6,Apneia do sono,88,0,William,65,De bom humor
+1903,54,Masculino,5,Dificuldade em manter o sono,106,5,Mary,90,Cansado
+1904,60,Masculino,5,Sem Problema,56,2,Jamie,78,Animado
+1905,34,Masculino,4,Sem Problema,100,2,Eugene,71,Aborrecido
+1906,52,Masculino,5,Dificuldade em manter o sono,2,1,Ryan,97,Cansado
+1907,59,Feminino,9,Insônia crônica,86,0,Joshua,61,Cansado
+1908,60,Masculino,4,Sonambulismo,192,1,Shawn,89,Cansado
+1909,48,Feminino,10,Insônia ocasional,64,3,Chad,98,Aborrecido
+1910,21,Masculino,8,Sonambulismo,54,5,Tamara,118,De bom humor
+1911,43,Masculino,6,Sonolência diurna,143,2,Carolyn,58,Levemente irritado
+1912,45,Masculino,5,Dificuldade em adormecer,118,2,Charles,120,De bom humor
+1913,26,Masculino,8,Sonambulismo,188,3,Jennifer,96,Indiferente
+1914,19,Masculino,5,Insônia crônica,198,1,Christine,79,Sonolenta
+1915,28,Feminino,7,Apneia do sono,116,3,Christine,57,Aborrecido
+1916,34,Feminino,8,Insônia crônica,68,4,Kyle,111,Cansado
+1917,63,Masculino,9,Sonolência diurna,38,0,Donald,105,Animado
+1918,48,Feminino,8,Dificuldade em manter o sono,142,2,Ashley,70,De bom humor
+1919,57,Feminino,8,Sem Problema,114,2,Tara,92,Aborrecido
+1920,54,Feminino,9,Dificuldade em adormecer,27,1,Nicholas,81,Sonolenta
+1921,58,Masculino,6,Sonambulismo,58,0,April,73,Levemente irritado
+1922,62,Feminino,8,Apneia do sono,175,1,Joshua,62,Cansado
+1923,65,Masculino,9,Dificuldade em adormecer,76,5,Aaron,79,Indiferente
+1924,18,Feminino,7,Insônia crônica,199,2,Sydney,92,Animado
+1925,60,Feminino,8,Insônia crônica,82,1,David,82,De bom humor
+1926,49,Feminino,7,Insônia crônica,79,2,Nicholas,56,Feliz
+1927,52,Masculino,7,Sem Problema,27,3,Pam,62,Aborrecido
+1928,21,Masculino,4,Sem Problema,64,5,Mary,95,Feliz
+1929,53,Feminino,10,Insônia ocasional,15,3,Christina,111,Indiferente
+1930,63,Masculino,6,Apneia do sono,55,1,Shirley,112,Cansado
+1931,24,Masculino,4,Sem Problema,121,0,Johnathan,73,Animado
+1932,19,Masculino,9,Dificuldade em adormecer,37,0,Abigail,69,Aborrecido
+1933,65,Masculino,9,Insônia ocasional,101,4,Bruce,68,Sonolenta
+1934,60,Masculino,8,Dificuldade em manter o sono,35,0,Ryan,105,Cansado
+1935,58,Masculino,4,Sonolência diurna,122,4,Martin,66,Feliz
+1936,44,Feminino,6,Dificuldade em adormecer,141,4,Mary,93,De bom humor
+1937,60,Feminino,10,Insônia ocasional,13,1,Michael,79,Cansado
+1938,28,Feminino,6,Insônia crônica,60,0,Lisa,87,Indiferente
+1939,24,Masculino,10,Dificuldade em adormecer,180,4,Elizabeth,76,Aborrecido
+1940,51,Feminino,7,Dificuldade em adormecer,33,0,Jacob,88,Indiferente
+1941,25,Masculino,7,Sonambulismo,53,0,Alexis,82,Levemente irritado
+1942,43,Masculino,9,Sonambulismo,33,3,Anna,117,Cansado
+1943,57,Feminino,4,Sem Problema,57,2,Mallory,105,Sonolenta
+1944,57,Masculino,5,Dificuldade em manter o sono,1,0,Jay,104,Feliz
+1945,36,Feminino,10,Sonambulismo,38,5,Michelle,70,Feliz
+1946,69,Masculino,5,Sonambulismo,32,3,Stephanie,116,Feliz
+1947,26,Feminino,10,Dificuldade em manter o sono,181,1,Craig,80,Cansado
+1948,30,Feminino,5,Insônia crônica,140,1,Gordon,66,Animado
+1949,32,Feminino,6,Sem Problema,179,5,Kevin,102,Aborrecido
+1950,25,Feminino,10,Insônia ocasional,132,5,Christopher,102,Cansado
+1951,48,Masculino,4,Dificuldade em manter o sono,161,1,Shirley,59,Sonolenta
+1952,55,Feminino,6,Dificuldade em adormecer,29,2,Patricia,101,Animado
+1953,58,Masculino,4,Sonambulismo,128,1,Mikayla,73,Levemente irritado
+1954,68,Feminino,6,Insônia ocasional,94,3,Kevin,56,Indiferente
+1955,69,Feminino,10,Insônia ocasional,59,0,Erik,97,Levemente irritado
+1956,22,Feminino,5,Sonolência diurna,69,1,Joseph,83,Levemente irritado
+1957,57,Feminino,4,Dificuldade em manter o sono,23,1,Jill,115,Indiferente
+1958,48,Feminino,5,Apneia do sono,9,5,Jeffrey,59,Feliz
+1959,63,Masculino,8,Sonambulismo,42,2,Lawrence,80,Feliz
+1960,24,Masculino,5,Dificuldade em manter o sono,51,0,Trevor,104,Cansado
+1961,56,Masculino,5,Insônia ocasional,169,4,Jennifer,116,De bom humor
+1962,27,Masculino,4,Dificuldade em manter o sono,177,1,Sharon,61,Animado
+1963,65,Masculino,7,Dificuldade em adormecer,101,1,Scott,95,Animado
+1964,47,Masculino,6,Sonambulismo,151,3,Jonathan,112,Indiferente
+1965,35,Feminino,8,Sonambulismo,129,3,Timothy,92,Indiferente
+1966,70,Feminino,10,Dificuldade em manter o sono,59,1,Julie,94,Cansado
+1967,48,Masculino,7,Dificuldade em manter o sono,142,3,Antonio,86,Feliz
+1968,37,Masculino,5,Dificuldade em manter o sono,13,2,Edward,79,Cansado
+1969,66,Feminino,7,Apneia do sono,138,0,Robert,81,Sonolenta
+1970,60,Masculino,4,Sonolência diurna,69,2,Adam,56,Aborrecido
+1971,54,Feminino,9,Dificuldade em manter o sono,122,4,Whitney,72,Feliz
+1972,70,Masculino,6,Dificuldade em adormecer,192,3,Heather,66,Aborrecido
+1973,20,Feminino,6,Insônia ocasional,136,5,Katrina,65,Levemente irritado
+1974,35,Masculino,9,Insônia crônica,16,1,Peter,89,Levemente irritado
+1975,37,Masculino,6,Insônia crônica,155,4,Eric,86,Sonolenta
+1976,35,Feminino,5,Apneia do sono,49,0,William,77,Animado
+1977,69,Masculino,9,Sonambulismo,37,1,Lisa,69,Animado
+1978,18,Masculino,4,Insônia crônica,72,0,Ellen,94,Aborrecido
+1979,44,Masculino,8,Dificuldade em manter o sono,66,3,Jean,72,Cansado
+1980,54,Masculino,10,Insônia crônica,1,4,Krista,72,Sonolenta
+1981,37,Feminino,7,Sem Problema,119,0,Traci,96,Indiferente
+1982,38,Feminino,6,Insônia crônica,182,2,Michael,65,De bom humor
+1983,58,Masculino,9,Dificuldade em manter o sono,39,0,Kevin,66,De bom humor
+1984,39,Feminino,5,Insônia ocasional,25,3,Jonathan,119,Feliz
+1985,31,Feminino,10,Dificuldade em adormecer,71,3,Andrew,120,Indiferente
+1986,32,Feminino,9,Dificuldade em adormecer,175,2,Sarah,107,Levemente irritado
+1987,33,Feminino,5,Insônia ocasional,137,1,Martin,119,Aborrecido
+1988,54,Masculino,9,Sem Problema,9,3,Scott,77,Cansado
+1989,56,Masculino,4,Insônia ocasional,34,3,Cindy,70,Indiferente
+1990,60,Feminino,4,Insônia ocasional,48,0,Maria,74,De bom humor
+1991,39,Masculino,8,Dificuldade em manter o sono,198,3,Aaron,118,De bom humor
+1992,24,Masculino,8,Insônia ocasional,154,5,Michelle,72,De bom humor
+1993,24,Masculino,7,Sem Problema,118,2,Valerie,67,Aborrecido
+1994,63,Masculino,9,Dificuldade em adormecer,73,1,Melissa,66,Cansado
+1995,60,Feminino,7,Apneia do sono,180,5,Trevor,91,Indiferente
+1996,70,Masculino,9,Sem Problema,20,5,Felicia,105,Levemente irritado
+1997,30,Masculino,10,Insônia crônica,195,5,Lisa,90,Feliz
+1998,33,Masculino,10,Apneia do sono,137,3,Jennifer,85,Feliz
+1999,23,Masculino,6,Sonolência diurna,22,3,Diana,71,Sonolenta
+2000,26,Masculino,6,Sonolência diurna,100,3,Jaime,98,Feliz
